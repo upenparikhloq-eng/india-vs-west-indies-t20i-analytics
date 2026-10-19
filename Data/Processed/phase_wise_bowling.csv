@@ -1,0 +1,41 @@
+Phase,Bowler,Bowling Team,Deliveries,Legal_Balls,Runs_Conceded,Wicket_Events,Overs,Economy
+Powerplay,Axar Patel,India National Cricket team,24,24,32,3,4.0,8.0
+Powerplay,Mayank Yadav,India National Cricket team,58,54,90,3,9.0,10.0
+Powerplay,Prince Yadav,India National Cricket team,13,12,20,0,2.0,10.0
+Powerplay,Arshdeep Singh,India National Cricket team,57,54,100,2,9.0,11.11
+Powerplay,Akeal Hosein,West Indies Cricket Team,31,30,56,1,5.0,11.2
+Powerplay,Roston Chase,West Indies Cricket Team,43,42,83,2,7.0,11.86
+Powerplay,Keemo Paul,West Indies Cricket Team,13,12,24,2,2.0,12.0
+Powerplay,Romario Shepherd,West Indies Cricket Team,18,18,36,0,3.0,12.0
+Powerplay,Shamar Joseph,West Indies Cricket Team,25,24,57,1,4.0,14.25
+Powerplay,Matthew Forde,West Indies Cricket Team,6,6,15,0,1.0,15.0
+Powerplay,Shamar Springer,West Indies Cricket Team,13,12,31,0,2.0,15.5
+Middle Overs,Roston Chase,West Indies Cricket Team,53,52,59,4,8.4,6.81
+Middle Overs,Prince Yadav,India National Cricket team,20,18,23,1,3.0,7.67
+Middle Overs,Arshdeep Singh,India National Cricket team,21,18,24,1,3.0,8.0
+Middle Overs,Gudakesh Motie,West Indies Cricket Team,43,42,62,3,7.0,8.86
+Middle Overs,Kuldeep Yadav,India National Cricket team,42,42,62,3,7.0,8.86
+Middle Overs,Mayank Yadav,India National Cricket team,18,18,30,0,3.0,10.0
+Middle Overs,Keemo Paul,West Indies Cricket Team,28,24,41,1,4.0,10.25
+Middle Overs,Nitish Reddy,India National Cricket team,12,12,21,0,2.0,10.5
+Middle Overs,Shamar Springer,West Indies Cricket Team,39,36,65,3,6.0,10.83
+Middle Overs,Romario Shepherd,West Indies Cricket Team,28,24,47,0,4.0,11.75
+Middle Overs,Naman Dhir,India National Cricket team,57,54,106,4,9.0,11.78
+Middle Overs,Axar Patel,India National Cricket team,43,42,89,1,7.0,12.71
+Middle Overs,Akeal Hosein,West Indies Cricket Team,13,12,27,0,2.0,13.5
+Middle Overs,Shivam Dube,India National Cricket team,13,12,30,0,2.0,15.0
+Middle Overs,Shamar Joseph,West Indies Cricket Team,19,18,46,0,3.0,15.33
+Middle Overs,Matthew Forde,West Indies Cricket Team,6,6,24,0,1.0,24.0
+Death Overs,Keemo Paul,West Indies Cricket Team,13,12,14,3,2.0,7.0
+Death Overs,Naman Dhir,India National Cricket team,6,6,8,1,1.0,8.0
+Death Overs,Gudakesh Motie,West Indies Cricket Team,6,6,9,1,1.0,9.0
+Death Overs,Prince Yadav,India National Cricket team,18,18,30,0,3.0,10.0
+Death Overs,Romario Shepherd,West Indies Cricket Team,11,10,20,1,1.4,12.0
+Death Overs,Nitish Reddy,India National Cricket team,18,18,37,1,3.0,12.33
+Death Overs,Arshdeep Singh,India National Cricket team,27,24,51,2,4.0,12.75
+Death Overs,Mayank Yadav,India National Cricket team,19,19,42,2,3.1,13.26
+Death Overs,Shamar Joseph,West Indies Cricket Team,30,27,60,1,4.3,13.33
+Death Overs,Shamar Springer,West Indies Cricket Team,31,30,70,3,5.0,14.0
+Death Overs,Axar Patel,India National Cricket team,15,15,46,0,2.3,18.4
+Death Overs,Rovman Powell,West Indies Cricket Team,2,2,7,0,0.2,21.0
+Death Overs,Kuldeep Yadav,India National Cricket team,7,6,24,0,1.0,24.0

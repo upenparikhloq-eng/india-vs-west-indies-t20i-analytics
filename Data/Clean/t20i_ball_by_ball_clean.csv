@@ -1,0 +1,960 @@
+Venue,MatchDay,Innings,Batting Team,Bowling Team,Striker,Non-Striker,Bowler,Ball Number,Actual Ball Number,Overs,Team Runs,Runs Off The Bat,Extra,Wide,No Ball,Leg Bye,Bye,Wicket,4's,6's,Run_QC_Flag,Extras_QC_Flag,Ball_Number_Label
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Kamil Pooran,Arshdeep Singh,0.1,0.1,1,0,0,0,0,0,0,0,0,0,0,False,False,0.100
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Kamil Pooran,Arshdeep Singh,0.2,0.2,1,0,0,0,0,0,0,0,0,0,0,False,False,0.200
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Kamil Pooran,Arshdeep Singh,0.3,0.3,1,0,0,0,0,0,0,0,0,0,0,False,False,0.300
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Kamil Pooran,Arshdeep Singh,0.4,0.4,1,4,4,0,0,0,0,0,0,1,0,False,False,0.400
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Kamil Pooran,Arshdeep Singh,0.5,0.5,1,0,0,0,0,0,0,0,0,0,0,False,False,0.500
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Kamil Pooran,Arshdeep Singh,0.6,0.6,1,1,1,0,0,0,0,0,0,0,0,False,False,0.600
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Kamil Pooran,Mayank Yadav,1.1,1.1,2,4,4,0,0,0,0,0,0,1,0,False,False,1.100
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Kamil Pooran,Mayank Yadav,1.2,1.2,2,4,4,0,0,0,0,0,0,1,0,False,False,1.200
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Kamil Pooran,Mayank Yadav,1.3,1.3,2,0,0,0,0,0,0,0,0,0,0,False,False,1.300
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Kamil Pooran,Mayank Yadav,1.4,1.4,2,0,0,0,0,0,0,0,0,0,0,False,False,1.400
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Kamil Pooran,Mayank Yadav,1.5,1.5,2,4,4,0,0,0,0,0,0,1,0,False,False,1.500
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Kamil Pooran,Mayank Yadav,1.6,1.6,2,4,4,0,0,0,0,0,0,1,0,False,False,1.600
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Shai Hope,Arshdeep Singh,2.1,2.1,3,5,4,1,0,1,0,0,0,1,0,False,False,2.100
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Shai Hope,Arshdeep Singh,2.2,2.1,3,0,0,0,0,0,0,0,0,0,0,False,False,2.200
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Shai Hope,Arshdeep Singh,2.3,2.2,3,0,0,0,0,0,0,0,0,0,0,False,False,2.300
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Shai Hope,Arshdeep Singh,2.4,2.3,3,1,1,0,0,0,0,0,0,0,0,False,False,2.400
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Kamil Pooran,Arshdeep Singh,2.5,2.4,3,1,1,0,0,0,0,0,0,0,0,False,False,2.500
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Shai Hope,Arshdeep Singh,2.6,2.5,3,0,0,0,0,0,0,0,0,0,0,False,False,2.600
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Shai Hope,Arshdeep Singh,2.7,2.6,3,0,0,0,0,0,0,0,0,0,0,False,False,2.700
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Kamil Pooran,Axar Patel,3.1,3.1,4,0,0,0,0,0,0,0,0,0,0,False,False,3.100
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Kamil Pooran,Axar Patel,3.2,3.2,4,1,1,0,0,0,0,0,0,0,0,False,False,3.200
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Shai Hope,Axar Patel,3.3,3.3,4,1,1,0,0,0,0,0,0,0,0,False,False,3.300
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Kamil Pooran,Axar Patel,3.4,3.4,4,1,1,0,0,0,0,0,0,0,0,False,False,3.400
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Shai Hope,Axar Patel,3.5,3.5,4,4,4,0,0,0,0,0,0,1,0,False,False,3.500
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Shai Hope,Axar Patel,3.6,3.6,4,1,1,0,0,0,0,0,0,0,0,False,False,3.600
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Shai Hope,Arshdeep Singh,4.1,4.1,5,1,1,0,0,0,0,0,0,0,0,False,False,4.1
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Kamil Pooran,Arshdeep Singh,4.2,4.2,5,1,0,1,0,0,0,1,0,0,0,False,False,4.200
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Shai Hope,Arshdeep Singh,4.3,4.3,5,0,0,0,0,0,0,0,1,0,0,False,False,4.300
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Shai Hope,Arshdeep Singh,4.4,4.4,5,4,4,0,0,0,0,0,0,1,0,False,False,4.400
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Shai Hope,Arshdeep Singh,4.5,4.5,5,1,1,0,0,0,0,0,0,0,0,False,False,4.500
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Shimron Hetmyer,Arshdeep Singh,4.6,4.6,5,1,1,0,0,0,0,0,0,0,0,False,False,4.600
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Shimron Hetmyer,Axar Patel,5.1,5.1,6,0,0,0,0,0,0,0,0,0,0,False,False,5.1
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Shimron Hetmyer,Axar Patel,5.2,5.2,6,0,0,0,0,0,0,0,1,0,0,False,False,5.200
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Axar Patel,5.3,5.3,6,0,0,0,0,0,0,0,0,0,0,False,False,5.300
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Axar Patel,5.4,5.4,6,0,0,0,0,0,0,0,0,0,0,False,False,5.400
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Axar Patel,5.5,5.5,6,0,0,0,0,0,0,0,1,0,0,False,False,5.500
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Axar Patel,5.6,5.6,6,0,0,0,0,0,0,0,0,0,0,False,False,5.600
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Kuldeep Yadav,6.1,6.1,7,2,2,0,0,0,0,0,0,0,0,False,False,6.1
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Kuldeep Yadav,6.2,6.2,7,0,0,0,0,0,0,0,0,0,0,False,False,6.200
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Kuldeep Yadav,6.3,6.3,7,2,2,0,0,0,0,0,0,0,0,False,False,6.300
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Kuldeep Yadav,6.4,6.4,7,1,1,0,0,0,0,0,0,0,0,False,False,6.400
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Kuldeep Yadav,6.5,6.5,7,4,4,0,0,0,0,0,0,1,0,False,False,6.500
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Kuldeep Yadav,6.6,6.6,7,0,0,0,0,0,0,0,0,0,0,False,False,6.600
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Mayank Yadav,7.1,7.1,8,0,0,0,0,0,0,0,0,0,0,False,False,7.1
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Mayank Yadav,7.2,7.2,8,1,1,0,0,0,0,0,0,0,0,False,False,7.200
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Mayank Yadav,7.3,7.3,8,1,1,0,0,0,0,0,0,0,0,False,False,7.300
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Mayank Yadav,7.4,7.4,8,2,2,0,0,0,0,0,0,0,0,False,False,7.400
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Mayank Yadav,7.5,7.5,8,0,0,0,0,0,0,0,0,0,0,False,False,7.500
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Mayank Yadav,7.6,7.6,8,4,0,4,0,0,4,0,0,0,0,False,False,7.600
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Kuldeep Yadav,8.1,8.1,9,6,6,0,0,0,0,0,0,0,1,False,False,8.1
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Kuldeep Yadav,8.2,8.2,9,1,1,0,0,0,0,0,0,0,0,False,False,8.200
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Kuldeep Yadav,8.3,8.3,9,0,0,0,0,0,0,0,0,0,0,False,False,8.300
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Kuldeep Yadav,8.4,8.4,9,1,1,0,0,0,0,0,0,0,0,False,False,8.400
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Kuldeep Yadav,8.5,8.5,9,1,1,0,0,0,0,0,0,0,0,False,False,8.500
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Kuldeep Yadav,8.6,8.6,9,6,6,0,0,0,0,0,0,0,1,False,False,8.600
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Naman Dhir,9.1,9.1,10,1,1,0,0,0,0,0,0,0,0,False,False,9.1
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Naman Dhir,9.2,9.2,10,1,1,0,0,0,0,0,0,0,0,False,False,9.200
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Naman Dhir,9.3,9.3,10,0,0,0,0,0,0,0,0,0,0,False,False,9.300
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Naman Dhir,9.4,9.4,10,4,4,0,0,0,0,0,0,1,0,False,False,9.400
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Naman Dhir,9.5,9.5,10,0,0,0,0,0,0,0,0,0,0,False,False,9.500
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Naman Dhir,9.6,9.6,10,0,0,0,0,0,0,0,0,0,0,False,False,9.600
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Axar Patel,10.1,10.1,11,4,4,0,0,0,0,0,0,1,0,False,False,10.1
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Axar Patel,10.2,10.2,11,1,1,0,0,0,0,0,0,0,0,False,False,10.200
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Axar Patel,10.3,10.3,11,2,2,0,0,0,0,0,0,0,0,False,False,10.300
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Axar Patel,10.4,10.4,11,4,4,0,0,0,0,0,0,1,0,False,False,10.400
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Axar Patel,10.5,10.5,11,6,6,0,0,0,0,0,0,0,1,False,False,10.500
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Axar Patel,10.6,10.6,11,1,1,0,0,0,0,0,0,0,0,False,False,10.600
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Naman Dhir,11.1,11.1,12,0,0,0,0,0,0,0,0,0,0,False,False,11.1
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Naman Dhir,11.2,11.2,12,1,0,1,0,0,1,0,0,0,0,False,False,11.200
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Naman Dhir,11.3,11.3,12,6,6,0,0,0,0,0,0,0,1,False,False,11.300
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Naman Dhir,11.4,11.4,12,0,0,0,0,0,0,0,1,0,0,False,False,11.400
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Roston Chase,Sherfane Rutherford,Naman Dhir,11.5,11.5,12,1,1,0,0,0,0,0,0,0,0,False,False,11.500
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Roston Chase,Naman Dhir,11.6,11.6,12,1,1,0,0,0,0,0,0,0,0,False,False,11.600
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Roston Chase,Kuldeep Yadav,12.1,12.1,13,1,1,0,0,0,0,0,0,0,0,False,False,12.1
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Roston Chase,Sherfane Rutherford,Kuldeep Yadav,12.2,12.2,13,4,4,0,0,0,0,0,0,1,0,False,False,12.200
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Roston Chase,Sherfane Rutherford,Kuldeep Yadav,12.3,12.3,13,0,0,0,0,0,0,0,1,0,0,False,False,12.300
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Romario Shepherd,Sherfane Rutherford,Kuldeep Yadav,12.4,12.4,13,0,0,0,0,0,0,0,0,0,0,False,False,12.400
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Romario Shepherd,Sherfane Rutherford,Kuldeep Yadav,12.5,12.5,13,0,0,0,0,0,0,0,0,0,0,False,False,12.500
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Romario Shepherd,Sherfane Rutherford,Kuldeep Yadav,12.6,12.6,13,1,1,0,0,0,0,0,0,0,0,False,False,12.600
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Romario Shepherd,Sherfane Rutherford,Naman Dhir,13.1,13.1,14,6,6,0,0,0,0,0,0,0,1,False,False,13.1
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Romario Shepherd,Sherfane Rutherford,Naman Dhir,13.2,13.2,14,0,0,0,0,0,0,0,1,0,0,False,False,13.200
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Matthew Forde,Sherfane Rutherford,Naman Dhir,13.3,13.3,14,1,1,0,0,0,0,0,0,0,0,False,False,13.300
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Matthew Forde,Naman Dhir,13.4,13.4,14,1,1,0,0,0,0,0,0,0,0,False,False,13.400
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Matthew Forde,Sherfane Rutherford,Naman Dhir,13.5,13.5,14,0,0,0,0,0,0,0,0,0,0,False,False,13.500
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Matthew Forde,Sherfane Rutherford,Naman Dhir,13.6,13.6,14,1,1,0,0,0,0,0,0,0,0,False,False,13.600
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Matthew Forde,Sherfane Rutherford,Kuldeep Yadav,14.1,14.1,15,0,0,0,0,0,0,0,1,0,0,False,False,14.1
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shamar Springer,Sherfane Rutherford,Kuldeep Yadav,14.2,14.2,15,0,0,0,0,0,0,0,0,0,0,False,False,14.200
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shamar Springer,Sherfane Rutherford,Kuldeep Yadav,14.3,14.3,15,1,1,0,0,0,0,0,0,0,0,False,False,14.300
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shamar Springer,Kuldeep Yadav,14.4,14.4,15,1,1,0,0,0,0,0,0,0,0,False,False,14.400
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shamar Springer,Sherfane Rutherford,Kuldeep Yadav,14.5,14.5,15,1,1,0,0,0,0,0,0,0,0,False,False,14.500
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shamar Springer,Kuldeep Yadav,14.6,14.6,15,0,0,0,0,0,0,0,0,0,0,False,False,14.600
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shamar Springer,Sherfane Rutherford,Naman Dhir,15.1,15.1,16,1,1,0,0,0,0,0,0,0,0,False,False,15.1
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shamar Springer,Naman Dhir,15.2,15.2,16,1,1,0,0,0,0,0,0,0,0,False,False,15.200
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shamar Springer,Sherfane Rutherford,Naman Dhir,15.3,15.3,16,0,0,0,0,0,0,0,0,0,0,False,False,15.300
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shamar Springer,Sherfane Rutherford,Naman Dhir,15.4,15.4,16,6,6,0,0,0,0,0,0,0,1,False,False,15.400
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shamar Springer,Sherfane Rutherford,Naman Dhir,15.5,15.5,16,0,0,0,0,0,0,0,1,0,0,False,False,15.500
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Akeal Hosein,Sherfane Rutherford,Naman Dhir,15.6,15.6,16,0,0,0,0,0,0,0,0,0,0,False,False,15.600
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Akeal Hosein,Mayank Yadav,16.1,16.1,17,1,1,0,0,0,0,0,0,0,0,False,False,16.100
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Akeal Hosein,Sherfane Rutherford,Mayank Yadav,16.2,16.2,17,1,1,0,0,0,0,0,0,0,0,False,False,16.200
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Akeal Hosein,Mayank Yadav,16.3,16.3,17,0,0,0,0,0,0,0,0,0,0,False,False,16.300
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Akeal Hosein,Mayank Yadav,16.4,16.4,17,0,0,0,0,0,0,0,0,0,0,False,False,16.400
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Akeal Hosein,Mayank Yadav,16.5,16.5,17,4,4,0,0,0,0,0,0,1,0,False,False,16.500
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Akeal Hosein,Mayank Yadav,16.6,16.6,17,4,4,0,0,0,0,0,0,1,0,False,False,16.600
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Akeal Hosein,Sherfane Rutherford,Arshdeep Singh,17.1,17.1,18,1,1,0,0,0,0,0,0,0,0,False,False,17.100
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Akeal Hosein,Arshdeep Singh,17.2,17.2,18,1,1,0,0,0,0,0,0,0,0,False,False,17.200
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Akeal Hosein,Sherfane Rutherford,Arshdeep Singh,17.3,17.3,18,2,2,0,0,0,0,0,0,0,0,False,False,17.300
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Akeal Hosein,Sherfane Rutherford,Arshdeep Singh,17.4,17.4,18,6,6,0,0,0,0,0,0,0,1,False,False,17.400
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Akeal Hosein,Sherfane Rutherford,Arshdeep Singh,17.5,17.5,18,1,1,0,0,0,0,0,0,0,0,False,False,17.500
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Akeal Hosein,Arshdeep Singh,17.6,17.6,18,4,4,0,0,0,0,0,0,1,0,False,False,17.600
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Akeal Hosein,Sherfane Rutherford,Mayank Yadav,18.1,18.1,19,4,4,0,0,0,0,0,0,1,0,False,False,18.100
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Akeal Hosein,Sherfane Rutherford,Mayank Yadav,18.2,18.2,19,1,0,1,0,0,0,1,0,0,0,False,False,18.200
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Akeal Hosein,Mayank Yadav,18.3,18.3,19,6,6,0,0,0,0,0,0,0,1,False,False,18.300
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Akeal Hosein,Mayank Yadav,18.4,18.4,19,0,0,0,0,0,0,0,0,0,0,False,False,18.400
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Akeal Hosein,Mayank Yadav,18.5,18.5,19,0,0,0,0,0,0,0,1,0,0,False,False,18.500
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Shamar Joseph,Akeal Hosein,Mayank Yadav,18.6,18.6,19,0,0,0,0,0,0,0,0,0,0,False,False,18.600
+Ekana Cricket Stadium B Ground,1,1,West Indies Cricket Team,India National Cricket team,Akeal Hosein,Shamar Joseph,Mayank Yadav,19.1,19.1,20,0,0,0,0,0,0,0,1,0,0,False,False,19.100
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Matthew Forde,0.1,0.1,1,1,1,0,0,0,0,0,0,0,0,False,False,0.100
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Matthew Forde,0.2,0.2,1,6,6,0,0,0,0,0,0,0,1,False,False,0.200
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Matthew Forde,0.3,0.3,1,4,4,0,0,0,0,0,0,1,0,False,False,0.300
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Matthew Forde,0.4,0.4,1,0,0,0,0,0,0,0,0,0,0,False,False,0.400
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Matthew Forde,0.5,0.5,1,4,4,0,0,0,0,0,0,1,0,False,False,0.500
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Matthew Forde,0.6,0.6,1,0,0,0,0,0,0,0,0,0,0,False,False,0.600
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Akeal Hosein,1.1,1.1,2,4,4,0,0,0,0,0,0,1,0,False,False,1.100
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Akeal Hosein,1.2,1.2,2,1,1,0,0,0,0,0,0,0,0,False,False,1.200
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Akeal Hosein,1.3,1.3,2,0,0,0,0,0,0,0,0,0,0,False,False,1.300
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Akeal Hosein,1.4,1.4,2,1,1,0,0,0,0,0,0,0,0,False,False,1.400
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Akeal Hosein,1.5,1.5,2,1,1,0,0,0,0,0,0,0,0,False,False,1.500
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Akeal Hosein,1.6,1.6,2,2,2,0,0,0,0,0,0,0,0,False,False,1.600
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Roston Chase,2.1,2.1,3,1,1,0,0,0,0,0,0,0,0,False,False,2.100
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Roston Chase,2.2,2.2,3,4,4,0,0,0,0,0,0,1,0,False,False,2.200
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Roston Chase,2.3,2.3,3,0,0,0,0,0,0,0,1,0,0,False,False,2.300
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Sanju Samson,Roston Chase,2.4,2.4,3,2,2,0,0,0,0,0,0,0,0,False,False,2.400
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Sanju Samson,Roston Chase,2.5,2.5,3,1,1,0,0,0,0,0,0,0,0,False,False,2.500
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Ishan Kishan,Roston Chase,2.6,2.6,3,3,3,0,0,0,0,0,0,0,0,False,False,2.600
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Ishan Kishan,Akeal Hosein,3.1,3.1,4,0,0,0,0,0,0,0,0,0,0,False,False,3.100
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Ishan Kishan,Akeal Hosein,3.2,3.2,4,0,0,0,0,0,0,0,0,0,0,False,False,3.200
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Ishan Kishan,Akeal Hosein,3.3,3.3,4,0,0,0,0,0,0,0,1,0,0,False,False,3.300
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Akeal Hosein,3.4,3.4,4,0,0,0,0,0,0,0,0,0,0,False,False,3.400
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Akeal Hosein,3.5,3.5,4,1,1,0,0,0,0,0,0,0,0,False,False,3.500
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Shreyas Iyer,Akeal Hosein,3.6,3.6,4,0,0,0,0,0,0,0,0,0,0,False,False,3.600
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Roston Chase,4.1,4.1,5,1,1,0,0,0,0,0,0,0,0,False,False,4.1
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Shreyas Iyer,Roston Chase,4.2,4.2,5,0,0,0,0,0,0,0,0,0,0,False,False,4.200
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Shreyas Iyer,Roston Chase,4.3,4.3,5,4,4,0,0,0,0,0,0,1,0,False,False,4.300
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Shreyas Iyer,Roston Chase,4.4,4.4,5,1,1,0,0,0,0,0,0,0,0,False,False,4.400
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Roston Chase,4.5,4.5,5,4,4,0,0,0,0,0,0,1,0,False,False,4.500
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Roston Chase,4.6,4.6,5,1,1,0,0,0,0,0,0,0,0,False,False,4.600
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Shamar Joseph,5.1,5.1,6,2,2,0,0,0,0,0,0,0,0,False,False,5.1
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Shamar Joseph,5.2,5.2,6,4,4,0,0,0,0,0,0,1,0,False,False,5.200
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Shamar Joseph,5.3,5.3,6,4,4,0,0,0,0,0,0,1,0,False,False,5.300
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Shamar Joseph,5.4,5.4,6,4,4,0,0,0,0,0,0,1,0,False,False,5.400
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Shamar Joseph,5.5,5.5,6,0,0,0,0,0,0,0,0,0,0,False,False,5.500
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Shamar Joseph,5.6,5.6,6,1,1,0,0,0,0,0,0,0,0,False,False,5.600
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Romario Shepherd,6.1,6.1,7,1,1,0,0,0,0,0,0,0,0,False,False,6.1
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Shreyas Iyer,Romario Shepherd,6.2,6.2,7,0,0,0,0,0,0,0,0,0,0,False,False,6.200
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Shreyas Iyer,Romario Shepherd,6.3,6.3,7,1,1,0,0,0,0,0,0,0,0,False,False,6.300
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Romario Shepherd,6.4,6.4,7,2,2,0,0,0,0,0,0,0,0,False,False,6.400
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Romario Shepherd,6.5,6.5,7,0,0,0,0,0,0,0,0,0,0,False,False,6.500
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Romario Shepherd,6.6,6.6,7,1,1,0,0,0,0,0,0,0,0,False,False,6.600
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Shamar Joseph,7.1,7.1,8,1,1,0,0,0,0,0,0,0,0,False,False,7.1
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Shreyas Iyer,Shamar Joseph,7.2,7.2,8,1,1,0,0,0,0,0,0,0,0,False,False,7.200
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Shamar Joseph,7.3,7.3,8,1,1,0,0,0,0,0,0,0,0,False,False,7.300
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Shreyas Iyer,Shamar Joseph,7.4,7.4,8,0,0,0,0,0,0,0,0,0,0,False,False,7.400
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Shreyas Iyer,Shamar Joseph,7.5,7.5,8,4,4,0,0,0,0,0,0,1,0,False,False,7.500
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Shreyas Iyer,Shamar Joseph,7.6,7.6,8,1,1,0,0,0,0,0,0,0,0,False,False,7.600
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Shreyas Iyer,Romario Shepherd,8.1,8.1,9,4,4,0,0,0,0,0,0,1,0,False,False,8.1
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Shreyas Iyer,Romario Shepherd,8.2,8.2,9,1,1,0,0,0,0,0,0,0,0,False,False,8.200
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Romario Shepherd,8.3,8.3,9,4,4,0,0,0,0,0,0,1,0,False,False,8.300
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Romario Shepherd,8.4,8.4,9,4,4,0,0,0,0,0,0,1,0,False,False,8.400
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Romario Shepherd,8.5,8.5,9,4,4,0,0,0,0,0,0,1,0,False,False,8.500
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Romario Shepherd,8.6,8.6,9,2,2,0,0,0,0,0,0,0,0,False,False,8.600
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Shreyas Iyer,Akeal Hosein,9.1,9.1,10,4,4,0,0,0,0,0,0,1,0,False,False,9.1
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Shreyas Iyer,Akeal Hosein,9.2,9.2,10,1,1,0,0,0,0,0,0,0,0,False,False,9.200
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Akeal Hosein,9.3,9.3,10,2,2,0,0,0,0,0,0,0,0,False,False,9.300
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Akeal Hosein,9.4,9.4,10,0,0,0,0,0,0,0,0,0,0,False,False,9.400
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Akeal Hosein,9.5,9.5,10,0,0,0,0,0,0,0,0,0,0,False,False,9.500
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Akeal Hosein,9.6,9.6,10,1,1,0,0,0,0,0,0,0,0,False,False,9.600
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Shamar Springer,10.1,10.1,11,0,0,0,0,0,0,0,0,0,0,False,False,10.1
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Shamar Springer,10.2,10.2,11,4,4,0,0,0,0,0,0,1,0,False,False,10.200
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Shamar Springer,10.3,10.3,11,1,1,0,0,0,0,0,0,0,0,False,False,10.300
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Shreyas Iyer,Shamar Springer,10.4,10.4,11,0,0,0,0,0,0,0,0,0,0,False,False,10.400
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Shreyas Iyer,Shamar Springer,10.5,10.5,11,1,1,0,0,0,0,0,0,0,0,False,False,10.500
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Shamar Springer,10.6,10.6,11,6,6,0,0,0,0,0,0,0,1,False,False,10.600
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Shreyas Iyer,Roston Chase,11.1,11.1,12,1,1,0,0,0,0,0,0,0,0,False,False,11.1
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Roston Chase,11.2,11.2,12,1,1,0,0,0,0,0,0,0,0,False,False,11.200
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Shreyas Iyer,Roston Chase,11.3,11.3,12,1,1,0,0,0,0,0,0,0,0,False,False,11.300
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Roston Chase,11.4,11.4,12,1,1,0,0,0,0,0,0,0,0,False,False,11.400
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Shreyas Iyer,Roston Chase,11.5,11.5,12,1,1,0,0,0,0,0,0,0,0,False,False,11.500
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Roston Chase,11.6,11.6,12,2,2,0,0,0,0,0,0,0,0,False,False,11.600
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Shreyas Iyer,Akeal Hosein,12.1,12.1,13,1,1,0,0,0,0,0,0,0,0,False,False,12.1
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Akeal Hosein,12.2,12.2,13,6,6,0,0,0,0,0,0,0,1,False,False,12.200
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Akeal Hosein,12.3,12.3,13,4,4,0,0,0,0,0,0,1,0,False,False,12.300
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Akeal Hosein,12.4,12.3,13,2,1,1,0,1,0,0,0,0,0,False,False,12.400
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Shreyas Iyer,Akeal Hosein,12.5,12.4,13,1,1,0,0,0,0,0,0,0,0,False,False,12.500
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Akeal Hosein,12.6,12.5,13,1,1,0,0,0,0,0,0,0,0,False,False,12.600
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Shreyas Iyer,Akeal Hosein,12.7,12.6,13,4,4,0,0,0,0,0,0,1,0,False,False,12.700
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Matthew Forde,13.1,13.1,14,6,6,0,0,0,0,0,0,0,1,False,False,13.1
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Matthew Forde,13.2,13.2,14,6,6,0,0,0,0,0,0,0,1,False,False,13.200
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Matthew Forde,13.3,13.3,14,1,1,0,0,0,0,0,0,0,0,False,False,13.300
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Shreyas Iyer,Matthew Forde,13.4,13.4,14,1,1,0,0,0,0,0,0,0,0,False,False,13.400
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Matthew Forde,13.5,13.5,14,4,4,0,0,0,0,0,0,1,0,False,False,13.500
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Matthew Forde,13.6,13.6,14,6,6,0,0,0,0,0,0,0,1,False,False,13.600
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Shreyas Iyer,Roston Chase,14.1,14.1,15,0,0,0,0,0,0,0,0,0,0,False,False,14.1
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Shreyas Iyer,Roston Chase,14.2,14.2,15,1,1,0,0,0,0,0,0,0,0,False,False,14.200
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Roston Chase,14.3,14.3,15,6,6,0,0,0,0,0,0,0,1,False,False,14.300
+Ekana Cricket Stadium B Ground,1,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Ishan Kishan,Roston Chase,14.4,14.4,15,1,1,0,0,0,0,0,0,0,0,False,False,14.400
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Akeal Hosein,0.1,0.1,1,1,1,0,0,0,0,0,0,0,0,False,False,0.100
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Akeal Hosein,0.2,0.2,1,1,1,0,0,0,0,0,0,0,0,False,False,0.200
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Akeal Hosein,0.3,0.3,1,0,0,0,0,0,0,0,0,0,0,False,False,0.300
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Akeal Hosein,0.4,0.4,1,2,2,0,0,0,0,0,0,0,0,False,False,0.400
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Akeal Hosein,0.5,0.5,1,0,0,0,0,0,0,0,0,0,0,False,False,0.500
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Akeal Hosein,0.6,0.6,1,6,6,0,0,0,0,0,0,0,1,False,False,0.600
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Romario Shepherd,1.1,1.1,2,0,0,0,0,0,0,0,0,0,0,False,False,1.100
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Romario Shepherd,1.2,1.2,2,1,1,0,0,0,0,0,0,0,0,False,False,1.200
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Romario Shepherd,1.3,1.3,2,0,0,0,0,0,0,0,0,0,0,False,False,1.300
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Romario Shepherd,1.4,1.4,2,4,4,0,0,0,0,0,0,1,0,False,False,1.400
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Romario Shepherd,1.5,1.5,2,2,2,0,0,0,0,0,0,0,0,False,False,1.500
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Romario Shepherd,1.6,1.6,2,4,4,0,0,0,0,0,0,1,0,False,False,1.600
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Akeal Hosein,2.1,2.1,3,4,4,0,0,0,0,0,0,1,0,False,False,2.100
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Akeal Hosein,2.2,2.2,3,0,0,0,0,0,0,0,0,0,0,False,False,2.200
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Akeal Hosein,2.3,2.2,3,1,0,1,0,1,0,0,0,0,0,False,False,2.300
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Akeal Hosein,2.4,2.3,3,6,6,0,0,0,0,0,0,0,1,False,False,2.400
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Akeal Hosein,2.5,2.4,3,0,0,0,0,0,0,0,0,0,0,False,False,2.500
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Akeal Hosein,2.6,2.5,3,2,2,0,0,0,0,0,0,0,0,False,False,2.600
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Akeal Hosein,2.7,2.6,3,1,1,0,0,0,0,0,0,0,0,False,False,2.700
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Roston Chase,3.1,3.1,4,4,4,0,0,0,0,0,0,1,0,False,False,3.100
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Sanju Samson,Roston Chase,3.2,3.2,4,1,1,0,0,0,0,0,0,0,0,False,False,3.200
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Roston Chase,3.3,3.3,4,1,1,0,0,0,0,0,0,0,0,False,False,3.300
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Roston Chase,3.4,3.4,4,1,1,0,0,0,0,0,0,0,0,False,False,3.400
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Roston Chase,3.5,3.5,4,0,0,0,0,0,0,0,0,0,0,False,False,3.500
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Roston Chase,3.6,3.6,4,0,0,0,0,0,0,0,1,0,0,False,False,3.600
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Ishan Kishan,Akeal Hosein,4.1,4.1,5,4,4,0,0,0,0,0,0,1,0,False,False,4.1
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Ishan Kishan,Akeal Hosein,4.2,4.2,5,6,6,0,0,0,0,0,0,0,1,False,False,4.200
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Ishan Kishan,Akeal Hosein,4.3,4.3,5,6,6,0,0,0,0,0,0,0,1,False,False,4.300
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Ishan Kishan,Akeal Hosein,4.4,4.4,5,4,4,0,0,0,0,0,0,1,0,False,False,4.400
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Ishan Kishan,Akeal Hosein,4.5,4.5,5,1,1,0,0,0,0,0,0,0,0,False,False,4.500
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Sanju Samson,Akeal Hosein,4.6,4.6,5,1,1,0,0,0,0,0,0,0,0,False,False,4.600
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Sanju Samson,Romario Shepherd,5.1,5.1,6,0,0,0,0,0,0,0,0,0,0,False,False,5.1
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Sanju Samson,Romario Shepherd,5.2,5.2,6,4,4,0,0,0,0,0,0,1,0,False,False,5.200
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Sanju Samson,Romario Shepherd,5.3,5.3,6,1,1,0,0,0,0,0,0,0,0,False,False,5.300
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Ishan Kishan,Romario Shepherd,5.4,5.4,6,2,2,0,0,0,0,0,0,0,0,False,False,5.400
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Ishan Kishan,Romario Shepherd,5.5,5.5,6,4,4,0,0,0,0,0,0,1,0,False,False,5.500
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Ishan Kishan,Romario Shepherd,5.6,5.6,6,4,4,0,0,0,0,0,0,1,0,False,False,5.600
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Sanju Samson,Gudakesh Motie,6.1,6.1,7,1,1,0,0,0,0,0,0,0,0,False,False,6.1
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Ishan Kishan,Gudakesh Motie,6.2,6.2,7,1,1,0,0,0,0,0,0,0,0,False,False,6.200
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Sanju Samson,Gudakesh Motie,6.3,6.3,7,0,0,0,0,0,0,0,0,0,0,False,False,6.300
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Sanju Samson,Gudakesh Motie,6.4,6.4,7,0,0,0,0,0,0,0,0,0,0,False,False,6.400
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Sanju Samson,Gudakesh Motie,6.5,6.5,7,6,6,0,0,0,0,0,0,0,1,False,False,6.500
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Sanju Samson,Gudakesh Motie,6.6,6.6,7,0,0,0,0,0,0,0,0,0,0,False,False,6.600
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Ishan Kishan,Roston Chase,7.1,7.1,8,1,1,0,0,0,0,0,0,0,0,False,False,7.1
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Sanju Samson,Roston Chase,7.2,7.2,8,0,0,0,0,0,0,0,0,0,0,False,False,7.200
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Sanju Samson,Roston Chase,7.3,7.3,8,0,0,0,0,0,0,0,0,0,0,False,False,7.300
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Sanju Samson,Roston Chase,7.4,7.4,8,4,4,0,0,0,0,0,0,1,0,False,False,7.400
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Sanju Samson,Roston Chase,7.5,7.5,8,1,1,0,0,0,0,0,0,0,0,False,False,7.500
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Ishan Kishan,Roston Chase,7.6,7.6,8,1,1,0,0,0,0,0,0,0,0,False,False,7.600
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Ishan Kishan,Gudakesh Motie,8.1,8.1,9,6,6,0,0,0,0,0,0,0,1,False,False,8.1
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Ishan Kishan,Gudakesh Motie,8.2,8.2,9,1,1,0,0,0,0,0,0,0,0,False,False,8.200
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Sanju Samson,Gudakesh Motie,8.3,8.3,9,1,1,0,0,0,0,0,0,0,0,False,False,8.300
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Ishan Kishan,Gudakesh Motie,8.4,8.4,9,0,0,0,0,0,0,0,0,0,0,False,False,8.400
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Ishan Kishan,Gudakesh Motie,8.5,8.5,9,4,4,0,0,0,0,0,0,1,0,False,False,8.500
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Ishan Kishan,Gudakesh Motie,8.6,8.6,9,1,1,0,0,0,0,0,0,0,0,False,False,8.600
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Ishan Kishan,Shamar Joseph,9.1,9.1,10,4,4,0,0,0,0,0,0,1,0,False,False,9.1
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Ishan Kishan,Shamar Joseph,9.2,9.2,10,0,0,0,0,0,0,0,0,0,0,False,False,9.200
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Ishan Kishan,Shamar Joseph,9.3,9.3,10,1,1,0,0,0,0,0,0,0,0,False,False,9.300
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Sanju Samson,Shamar Joseph,9.4,9.4,10,6,6,0,0,0,0,0,0,0,1,False,False,9.400
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Sanju Samson,Shamar Joseph,9.5,9.5,10,4,4,0,0,0,0,0,0,1,0,False,False,9.500
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Sanju Samson,Shamar Joseph,9.6,9.5,10,1,0,1,1,0,0,0,0,0,0,False,False,9.600
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Sanju Samson,Shamar Joseph,9.7,9.6,10,4,4,0,0,0,0,0,0,1,0,False,False,9.700
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Ishan Kishan,Shamar Springer,10.1,10.1,11,1,1,0,0,0,0,0,0,0,0,False,False,10.1
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Sanju Samson,Shamar Springer,10.2,10.2,11,4,4,0,0,0,0,0,0,1,0,False,False,10.200
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Sanju Samson,Shamar Springer,10.3,10.3,11,1,1,0,0,0,0,0,0,0,0,False,False,10.300
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Ishan Kishan,Shamar Springer,10.4,10.4,11,1,1,0,0,0,0,0,0,0,0,False,False,10.400
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Sanju Samson,Shamar Springer,10.5,10.5,11,4,4,0,0,0,0,0,0,1,0,False,False,10.500
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Sanju Samson,Shamar Springer,10.6,10.6,11,1,1,0,0,0,0,0,0,0,0,False,False,10.600
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Sanju Samson,Roston Chase,11.1,11.1,12,0,0,0,0,0,0,0,1,0,0,False,False,11.1
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shivam Dube,Sanju Samson,Roston Chase,11.2,11.2,12,0,0,0,0,0,0,0,0,0,0,False,False,11.200
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shivam Dube,Sanju Samson,Roston Chase,11.3,11.3,12,0,0,0,0,0,0,0,0,0,0,False,False,11.300
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shivam Dube,Sanju Samson,Roston Chase,11.4,11.3,12,1,0,1,1,0,0,0,0,0,0,False,False,11.400
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shivam Dube,Sanju Samson,Roston Chase,11.5,11.4,12,0,0,0,0,0,0,0,0,0,0,False,False,11.500
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shivam Dube,Sanju Samson,Roston Chase,11.6,11.5,12,1,1,0,0,0,0,0,0,0,0,False,False,11.600
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Shivam Dube,Roston Chase,11.7,11.6,12,1,1,0,0,0,0,0,0,0,0,False,False,11.700
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Shivam Dube,Romario Shepherd,12.1,12.1,13,1,0,1,1,0,0,0,0,0,0,False,False,12.1
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Shivam Dube,Romario Shepherd,12.2,12.1,13,1,0,1,1,0,0,0,0,0,0,False,False,12.200
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Shivam Dube,Romario Shepherd,12.3,12.1,13,1,0,1,1,0,0,0,0,0,0,False,False,12.300
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Shivam Dube,Romario Shepherd,12.4,12.1,13,4,4,0,0,0,0,0,0,1,0,False,False,12.400
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Shivam Dube,Romario Shepherd,12.5,12.2,13,1,1,0,0,0,0,0,0,0,0,False,False,12.500
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shivam Dube,Sanju Samson,Romario Shepherd,12.6,12.3,13,1,1,0,0,0,0,0,0,0,0,False,False,12.600
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Shivam Dube,Romario Shepherd,12.7,12.3,13,1,0,1,1,0,0,0,0,0,0,False,False,12.700
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Shivam Dube,Romario Shepherd,12.8,12.4,13,1,1,0,0,0,0,0,0,0,0,False,False,12.800
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shivam Dube,Sanju Samson,Romario Shepherd,12.9,12.5,13,0,0,0,0,0,0,0,0,0,0,False,False,12.900
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shivam Dube,Sanju Samson,Romario Shepherd,12.101,12.6,13,1,1,0,0,0,0,0,0,0,0,False,False,12.10
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shivam Dube,Sanju Samson,Roston Chase,13.1,13.1,14,4,4,0,0,0,0,0,0,1,0,False,False,13.1
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shivam Dube,Sanju Samson,Roston Chase,13.2,13.2,14,0,0,0,0,0,0,0,0,0,0,False,False,13.200
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shivam Dube,Sanju Samson,Roston Chase,13.3,13.3,14,0,0,0,0,0,0,0,1,0,0,False,False,13.300
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Sanju Samson,Roston Chase,13.4,13.4,14,1,1,0,0,0,0,0,0,0,0,False,False,13.400
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Shreyas Iyer,Roston Chase,13.5,13.5,14,1,1,0,0,0,0,0,0,0,0,False,False,13.500
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Sanju Samson,Roston Chase,13.6,13.6,14,1,1,0,0,0,0,0,0,0,0,False,False,13.600
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Sanju Samson,Shamar Springer,14.1,14.1,15,1,1,0,0,0,0,0,0,0,0,False,False,14.1
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Shreyas Iyer,Shamar Springer,14.2,14.2,15,0,0,0,0,0,0,0,0,0,0,False,False,14.200
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Shreyas Iyer,Shamar Springer,14.3,14.3,15,0,0,0,0,0,0,0,1,0,0,False,False,14.300
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Shreyas Iyer,Shamar Springer,14.4,14.4,15,4,4,0,0,0,0,0,0,1,0,False,False,14.400
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Shreyas Iyer,Shamar Springer,14.5,14.5,15,2,2,0,0,0,0,0,0,0,0,False,False,14.500
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Shreyas Iyer,Shamar Springer,14.6,14.6,15,1,1,0,0,0,0,0,0,0,0,False,False,14.600
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Shreyas Iyer,Shamar Joseph,15.1,15.1,16,1,1,0,0,0,0,0,0,0,0,False,False,15.1
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Tilak Varma,Shamar Joseph,15.2,15.2,16,4,4,0,0,0,0,0,0,1,0,False,False,15.200
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Tilak Varma,Shamar Joseph,15.3,15.3,16,1,1,0,0,0,0,0,0,0,0,False,False,15.300
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Shreyas Iyer,Shamar Joseph,15.4,15.4,16,1,1,0,0,0,0,0,0,0,0,False,False,15.400
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Tilak Varma,Shamar Joseph,15.5,15.5,16,1,1,0,0,0,0,0,0,0,0,False,False,15.500
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Shreyas Iyer,Shamar Joseph,15.6,15.6,16,1,1,0,0,0,0,0,0,0,0,False,False,15.600
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Shreyas Iyer,Romario Shepherd,16.1,16.1,17,1,1,0,0,0,0,0,0,0,0,False,False,16.100
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Tilak Varma,Romario Shepherd,16.2,16.2,17,6,6,0,0,0,0,0,0,0,1,False,False,16.200
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Tilak Varma,Romario Shepherd,16.3,16.3,17,1,1,0,0,0,0,0,0,0,0,False,False,16.300
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Shreyas Iyer,Romario Shepherd,16.4,16.4,17,1,1,0,0,0,0,0,0,0,0,False,False,16.400
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Tilak Varma,Rovman Powell,16.5,16.5,17,6,6,0,0,0,0,0,0,0,1,False,False,16.500
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Tilak Varma,Rovman Powell,16.6,16.6,17,1,1,0,0,0,0,0,0,0,0,False,False,16.600
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Tilak Varma,Shamar Springer,17.1,17.1,18,6,6,0,0,0,0,0,0,0,1,False,False,17.100
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Tilak Varma,Shamar Springer,17.2,17.2,18,1,1,0,0,0,0,0,0,0,0,False,False,17.200
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Shreyas Iyer,Shamar Springer,17.3,17.3,18,4,4,0,0,0,0,0,0,1,0,False,False,17.300
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Shreyas Iyer,Shamar Springer,17.4,17.4,18,4,4,0,0,0,0,0,0,1,0,False,False,17.400
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Shreyas Iyer,Shamar Springer,17.5,17.4,18,2,1,1,0,1,0,0,0,0,0,False,False,17.500
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Tilak Varma,Shamar Springer,17.6,17.5,18,0,0,0,0,0,0,0,0,0,0,False,False,17.600
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Tilak Varma,Shamar Springer,17.7,17.6,18,4,4,0,0,0,0,0,0,1,0,False,False,17.700
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Shreyas Iyer,Shamar Joseph,18.1,18.1,19,2,2,0,0,0,0,0,0,0,0,False,False,18.100
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Shreyas Iyer,Shamar Joseph,18.2,18.2,19,1,1,0,0,0,0,0,0,0,0,False,False,18.200
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Tilak Varma,Shamar Joseph,18.3,18.3,19,4,4,0,0,0,0,0,0,1,0,False,False,18.300
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Tilak Varma,Shamar Joseph,18.4,18.4,19,1,0,1,0,0,1,0,0,0,0,False,False,18.400
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Shreyas Iyer,Shamar Joseph,18.5,18.5,19,1,1,0,0,0,0,0,0,0,0,False,False,18.500
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Tilak Varma,Shamar Joseph,18.6,18.6,19,2,2,0,0,0,0,0,0,0,0,False,False,18.600
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Shreyas Iyer,Shamar Springer,19.1,19.1,20,6,6,0,0,0,0,0,0,0,1,False,False,19.100
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Shreyas Iyer,Shamar Springer,19.2,19.2,20,6,6,0,0,0,0,0,0,0,1,False,False,19.200
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Shreyas Iyer,Shamar Springer,19.3,19.3,20,6,6,0,0,0,0,0,0,0,1,False,False,19.300
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Shreyas Iyer,Shamar Springer,19.4,19.4,20,1,1,0,0,0,0,0,0,0,0,False,False,19.400
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Tilak Varma,Shamar Springer,19.5,19.5,20,0,0,0,0,0,0,0,1,0,0,False,False,19.500
+JSCA International Stadium Complex,2,1,India National Cricket team,West Indies Cricket Team,Naman Dhir,Tilak Varma,Shamar Springer,19.6,19.6,20,4,4,0,0,0,0,0,0,1,0,False,False,19.600
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Kamil Pooran,Mayank Yadav,0.1,0.1,1,1,1,0,0,0,0,0,0,0,0,False,False,0.100
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Shai Hope,Mayank Yadav,0.2,0.2,1,4,4,0,0,0,0,0,0,1,0,False,False,0.200
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Shai Hope,Mayank Yadav,0.3,0.3,1,0,0,0,0,0,0,0,1,0,0,False,False,0.300
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Shai Hope,Mayank Yadav,0.4,0.4,1,0,0,0,0,0,0,0,1,0,0,False,False,0.400
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Mayank Yadav,0.5,0.5,1,4,4,0,0,0,0,0,0,1,0,False,False,0.500
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Mayank Yadav,0.6,0.6,1,0,0,0,0,0,0,0,0,0,0,False,False,0.600
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Rovman Powell,Arshdeep Singh,1.1,1.1,2,4,4,0,0,0,0,0,0,1,0,False,False,1.100
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Rovman Powell,Arshdeep Singh,1.2,1.2,2,4,4,0,0,0,0,0,0,1,0,False,False,1.200
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Rovman Powell,Arshdeep Singh,1.3,1.3,2,0,0,0,0,0,0,0,0,0,0,False,False,1.300
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Rovman Powell,Arshdeep Singh,1.4,1.4,2,1,1,0,0,0,0,0,0,0,0,False,False,1.400
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Arshdeep Singh,1.5,1.5,2,0,0,0,0,0,0,0,0,0,0,False,False,1.500
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Arshdeep Singh,1.6,1.6,2,0,0,0,0,0,0,0,0,0,0,False,False,1.600
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Rovman Powell,Mayank Yadav,2.1,2.1,3,0,0,0,0,0,0,0,0,0,0,False,False,2.100
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Rovman Powell,Mayank Yadav,2.2,2.2,3,0,0,0,0,0,0,0,0,0,0,False,False,2.200
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Rovman Powell,Mayank Yadav,2.3,2.3,3,3,3,0,0,0,0,0,0,0,0,False,False,2.300
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Mayank Yadav,2.4,2.4,3,0,0,0,0,0,0,0,0,0,0,False,False,2.400
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Mayank Yadav,2.5,2.5,3,6,6,0,0,0,0,0,0,0,1,False,False,2.500
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Mayank Yadav,2.6,2.6,3,4,4,0,0,0,0,0,0,1,0,False,False,2.600
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Rovman Powell,Axar Patel,3.1,3.1,4,4,4,0,0,0,0,0,0,1,0,False,False,3.100
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Rovman Powell,Axar Patel,3.2,3.2,4,6,6,0,0,0,0,0,0,0,1,False,False,3.200
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Rovman Powell,Axar Patel,3.3,3.3,4,0,0,0,0,0,0,0,0,0,0,False,False,3.300
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Rovman Powell,Axar Patel,3.4,3.4,4,6,6,0,0,0,0,0,0,0,1,False,False,3.400
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Rovman Powell,Axar Patel,3.5,3.5,4,0,0,0,0,0,0,0,0,0,0,False,False,3.500
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Rovman Powell,Axar Patel,3.6,3.6,4,0,0,0,0,0,0,0,0,0,0,False,False,3.600
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Arshdeep Singh,4.1,4.1,5,1,1,0,0,0,0,0,0,0,0,False,False,4.1
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Rovman Powell,Arshdeep Singh,4.2,4.2,5,1,1,0,0,0,0,0,0,0,0,False,False,4.200
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Arshdeep Singh,4.3,4.3,5,0,0,0,0,0,0,0,0,0,0,False,False,4.300
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Arshdeep Singh,4.4,4.4,5,4,4,0,0,0,0,0,0,1,0,False,False,4.400
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Arshdeep Singh,4.5,4.5,5,4,4,0,0,0,0,0,0,1,0,False,False,4.500
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Arshdeep Singh,4.6,4.6,5,1,1,0,0,0,0,0,0,0,0,False,False,4.600
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Mayank Yadav,5.1,5.1,6,0,0,0,0,0,0,0,1,0,0,False,False,5.1
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Mayank Yadav,5.2,5.2,6,0,0,0,0,0,0,0,0,0,0,False,False,5.200
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Mayank Yadav,5.3,5.3,6,4,4,0,0,0,0,0,0,1,0,False,False,5.300
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Mayank Yadav,5.4,5.4,6,4,4,0,0,0,0,0,0,1,0,False,False,5.400
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Mayank Yadav,5.5,5.5,6,6,6,0,0,0,0,0,0,0,1,False,False,5.500
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Mayank Yadav,5.6,5.6,6,0,0,0,0,0,0,0,0,0,0,False,False,5.600
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Shivam Dube,6.1,6.1,7,4,4,0,0,0,0,0,0,1,0,False,False,6.1
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Shivam Dube,6.2,6.2,7,1,1,0,0,0,0,0,0,0,0,False,False,6.200
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Shivam Dube,6.3,6.3,7,4,4,0,0,0,0,0,0,1,0,False,False,6.300
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Shivam Dube,6.4,6.4,7,1,1,0,0,0,0,0,0,0,0,False,False,6.400
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Shivam Dube,6.5,6.4,7,1,0,1,1,0,0,0,0,0,0,False,False,6.500
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Shivam Dube,6.6,6.5,7,2,2,0,0,0,0,0,0,0,0,False,False,6.600
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Shivam Dube,6.7,6.6,7,1,1,0,0,0,0,0,0,0,0,False,False,6.700
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Kuldeep Yadav,7.1,7.1,8,1,1,0,0,0,0,0,0,0,0,False,False,7.1
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Kuldeep Yadav,7.2,7.2,8,6,6,0,0,0,0,0,0,0,1,False,False,7.200
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Kuldeep Yadav,7.3,7.3,8,2,2,0,0,0,0,0,0,0,0,False,False,7.300
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Kuldeep Yadav,7.4,7.4,8,1,1,0,0,0,0,0,0,0,0,False,False,7.400
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Kuldeep Yadav,7.5,7.5,8,1,1,0,0,0,0,0,0,0,0,False,False,7.500
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Kuldeep Yadav,7.6,7.6,8,0,0,0,0,0,0,0,0,0,0,False,False,7.600
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Shivam Dube,8.1,8.1,9,6,6,0,0,0,0,0,0,0,1,False,False,8.1
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Shivam Dube,8.2,8.2,9,1,1,0,0,0,0,0,0,0,0,False,False,8.200
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Shivam Dube,8.3,8.3,9,2,2,0,0,0,0,0,0,0,0,False,False,8.300
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Shivam Dube,8.4,8.4,9,0,0,0,0,0,0,0,0,0,0,False,False,8.400
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Shivam Dube,8.5,8.5,9,1,1,0,0,0,0,0,0,0,0,False,False,8.500
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Shivam Dube,8.6,8.6,9,6,6,0,0,0,0,0,0,0,1,False,False,8.600
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Kuldeep Yadav,9.1,9.1,10,6,6,0,0,0,0,0,0,0,1,False,False,9.1
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Kuldeep Yadav,9.2,9.2,10,1,1,0,0,0,0,0,0,0,0,False,False,9.200
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Kuldeep Yadav,9.3,9.3,10,1,1,0,0,0,0,0,0,0,0,False,False,9.300
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Kuldeep Yadav,9.4,9.4,10,0,0,0,0,0,0,0,0,0,0,False,False,9.400
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Kuldeep Yadav,9.5,9.5,10,0,0,0,0,0,0,0,0,0,0,False,False,9.500
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Kuldeep Yadav,9.6,9.6,10,1,1,0,0,0,0,0,0,0,0,False,False,9.600
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Naman Dhir,10.1,10.1,11,6,6,0,0,0,0,0,0,0,1,False,False,10.1
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Naman Dhir,10.2,10.2,11,0,0,0,0,0,0,0,0,0,0,False,False,10.200
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Naman Dhir,10.3,10.3,11,0,0,0,0,0,0,0,0,0,0,False,False,10.300
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Naman Dhir,10.4,10.4,11,1,1,0,0,0,0,0,0,0,0,False,False,10.400
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Naman Dhir,10.5,10.5,11,0,0,0,0,0,0,0,0,0,0,False,False,10.500
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Naman Dhir,10.6,10.6,11,0,0,0,0,0,0,0,0,0,0,False,False,10.600
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Axar Patel,11.1,11.1,12,6,6,0,0,0,0,0,0,0,1,False,False,11.1
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Axar Patel,11.2,11.2,12,0,0,0,0,0,0,0,0,0,0,False,False,11.200
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Axar Patel,11.3,11.2,12,1,0,1,1,0,0,0,0,0,0,False,False,11.300
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Axar Patel,11.4,11.3,12,4,4,0,0,0,0,0,0,1,0,False,False,11.400
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Axar Patel,11.5,11.4,12,4,4,0,0,0,0,0,0,1,0,False,False,11.500
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Axar Patel,11.6,11.5,12,6,6,0,0,0,0,0,0,0,1,False,False,11.600
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Axar Patel,11.7,11.6,12,2,2,0,0,0,0,0,0,0,0,False,False,11.700
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Naman Dhir,12.1,12.1,13,0,0,0,0,0,0,0,0,0,0,False,False,12.1
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Naman Dhir,12.2,12.2,13,6,6,0,0,0,0,0,0,0,1,False,False,12.200
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Naman Dhir,12.3,12.3,13,1,1,0,0,0,0,0,0,0,0,False,False,12.300
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Naman Dhir,12.4,12.4,13,0,0,0,0,0,0,0,0,0,0,False,False,12.400
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Naman Dhir,12.5,12.4,13,1,0,1,1,0,0,0,0,0,0,False,False,12.500
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Naman Dhir,12.6,12.5,13,4,4,0,0,0,0,0,0,1,0,False,False,12.600
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Naman Dhir,12.7,12.6,13,6,6,0,0,0,0,0,0,0,1,False,False,12.700
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Arshdeep Singh,13.1,13.1,14,1,1,0,0,0,0,0,0,0,0,False,False,13.1
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Arshdeep Singh,13.2,13.2,14,1,1,0,0,0,0,0,0,0,0,False,False,13.200
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Arshdeep Singh,13.3,13.3,14,1,1,0,0,0,0,0,0,0,0,False,False,13.300
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Arshdeep Singh,13.4,13.4,14,0,0,0,0,0,0,0,0,0,0,False,False,13.400
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Arshdeep Singh,13.5,13.5,14,4,4,0,0,0,0,0,0,1,0,False,False,13.500
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Arshdeep Singh,13.6,13.6,14,1,1,0,0,0,0,0,0,0,0,False,False,13.600
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Kuldeep Yadav,14.1,14.1,15,0,0,0,0,0,0,0,1,0,0,False,False,14.1
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Romario Shepherd,Shai Hope,Kuldeep Yadav,14.2,14.2,15,0,0,0,0,0,0,0,0,0,0,False,False,14.200
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Romario Shepherd,Shai Hope,Kuldeep Yadav,14.3,14.3,15,1,1,0,0,0,0,0,0,0,0,False,False,14.300
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Romario Shepherd,Kuldeep Yadav,14.4,14.4,15,4,4,0,0,0,0,0,0,1,0,False,False,14.400
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Romario Shepherd,Kuldeep Yadav,14.5,14.5,15,3,3,0,0,0,0,0,0,0,0,False,False,14.500
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Romario Shepherd,Shai Hope,Kuldeep Yadav,14.6,14.6,15,1,1,0,0,0,0,0,0,0,0,False,False,14.600
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Romario Shepherd,Shai Hope,Axar Patel,15.1,15.1,16,1,1,0,0,0,0,0,0,0,0,False,False,15.1
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Romario Shepherd,Axar Patel,15.2,15.2,16,0,0,0,0,0,0,0,0,0,0,False,False,15.200
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Romario Shepherd,Axar Patel,15.3,15.3,16,4,4,0,0,0,0,0,0,1,0,False,False,15.300
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Romario Shepherd,Axar Patel,15.4,15.4,16,1,1,0,0,0,0,0,0,0,0,False,False,15.400
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Romario Shepherd,Shai Hope,Axar Patel,15.5,15.5,16,0,0,0,0,0,0,0,0,0,0,False,False,15.500
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Romario Shepherd,Shai Hope,Axar Patel,15.6,15.6,16,6,6,0,0,0,0,0,0,0,1,False,False,15.600
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Romario Shepherd,Kuldeep Yadav,16.1,16.1,17,6,6,0,0,0,0,0,0,0,1,False,False,16.100
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Romario Shepherd,Kuldeep Yadav,16.2,16.2,17,6,6,0,0,0,0,0,0,0,1,False,False,16.200
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Romario Shepherd,Kuldeep Yadav,16.3,16.3,17,1,1,0,0,0,0,0,0,0,0,False,False,16.300
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Romario Shepherd,Shai Hope,Kuldeep Yadav,16.4,16.4,17,6,6,0,0,0,0,0,0,0,1,False,False,16.400
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Romario Shepherd,Shai Hope,Kuldeep Yadav,16.5,16.4,17,1,0,1,1,0,0,0,0,0,0,False,False,16.500
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Romario Shepherd,Shai Hope,Kuldeep Yadav,16.6,16.5,17,0,0,0,0,0,0,0,0,0,0,False,False,16.600
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Romario Shepherd,Shai Hope,Kuldeep Yadav,16.7,16.6,17,4,4,0,0,0,0,0,0,1,0,False,False,16.700
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Romario Shepherd,Arshdeep Singh,17.1,17.1,18,1,1,0,0,0,0,0,0,0,0,False,False,17.100
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Romario Shepherd,Shai Hope,Arshdeep Singh,17.2,17.2,18,1,1,0,0,0,0,0,0,0,0,False,False,17.200
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Romario Shepherd,Arshdeep Singh,17.3,17.3,18,1,1,0,0,0,0,0,0,0,0,False,False,17.300
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Romario Shepherd,Shai Hope,Arshdeep Singh,17.4,17.4,18,6,6,0,0,0,0,0,0,0,1,False,False,17.400
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Romario Shepherd,Shai Hope,Arshdeep Singh,17.5,17.5,18,4,4,0,0,0,0,0,0,1,0,False,False,17.500
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Romario Shepherd,Shai Hope,Arshdeep Singh,17.6,17.6,18,4,4,0,0,0,0,0,0,1,0,False,False,17.600
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Romario Shepherd,Axar Patel,18.1,18.1,19,6,6,0,0,0,0,0,0,0,1,False,False,18.100
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Romario Shepherd,Axar Patel,18.2,18.2,19,0,0,0,0,0,0,0,0,0,0,False,False,18.200
+JSCA International Stadium Complex,2,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Romario Shepherd,Axar Patel,18.3,18.3,19,6,6,0,0,0,0,0,0,0,1,False,False,18.300
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Roston Chase,0.1,0.1,1,1,1,0,0,0,0,0,0,0,0,False,False,0.100
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Roston Chase,0.2,0.2,1,1,1,0,0,0,0,0,0,0,0,False,False,0.200
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Roston Chase,0.3,0.3,1,1,1,0,0,0,0,0,0,0,0,False,False,0.300
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Roston Chase,0.4,0.4,1,1,1,0,0,0,0,0,0,0,0,False,False,0.400
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Roston Chase,0.5,0.5,1,0,0,0,0,0,0,0,0,0,0,False,False,0.500
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Roston Chase,0.6,0.6,1,0,0,0,0,0,0,0,0,0,0,False,False,0.600
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Shamar Joseph,1.1,1.1,2,1,1,0,0,0,0,0,0,0,0,False,False,1.100
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Shamar Joseph,1.2,1.2,2,1,1,0,0,0,0,0,0,0,0,False,False,1.200
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Shamar Joseph,1.3,1.3,2,1,1,0,0,0,0,0,0,0,0,False,False,1.300
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Shamar Joseph,1.4,1.4,2,0,0,0,0,0,0,0,1,0,0,False,False,1.400
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Abhishek Sharma,Shamar Joseph,1.5,1.5,2,4,0,4,0,0,0,4,0,0,0,False,False,1.500
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Abhishek Sharma,Shamar Joseph,1.6,1.6,2,0,0,0,0,0,0,0,0,0,0,False,False,1.600
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Ishan Kishan,Roston Chase,2.1,2.1,3,1,1,0,0,0,0,0,0,0,0,False,False,2.100
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Abhishek Sharma,Roston Chase,2.2,2.2,3,1,1,0,0,0,0,0,0,0,0,False,False,2.200
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Ishan Kishan,Roston Chase,2.3,2.3,3,4,4,0,0,0,0,0,0,1,0,False,False,2.300
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Ishan Kishan,Roston Chase,2.4,2.4,3,6,6,0,0,0,0,0,0,0,1,False,False,2.400
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Ishan Kishan,Roston Chase,2.5,2.5,3,0,0,0,0,0,0,0,0,0,0,False,False,2.500
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Ishan Kishan,Roston Chase,2.6,2.6,3,6,6,0,0,0,0,0,0,0,1,False,False,2.600
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Abhishek Sharma,Keemo Paul,3.1,3.1,4,4,4,0,0,0,0,0,0,1,0,False,False,3.100
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Abhishek Sharma,Keemo Paul,3.2,3.2,4,4,4,0,0,0,0,0,0,1,0,False,False,3.200
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Abhishek Sharma,Keemo Paul,3.3,3.3,4,1,1,0,0,0,0,0,0,0,0,False,False,3.300
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Ishan Kishan,Keemo Paul,3.4,3.4,4,2,2,0,0,0,0,0,0,0,0,False,False,3.400
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Ishan Kishan,Keemo Paul,3.5,3.5,4,1,0,1,0,0,1,0,0,0,0,False,False,3.500
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Abhishek Sharma,Keemo Paul,3.6,3.6,4,4,4,0,0,0,0,0,0,1,0,False,False,3.600
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Ishan Kishan,Shamar Springer,4.1,4.1,5,1,1,0,0,0,0,0,0,0,0,False,False,4.1
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Abhishek Sharma,Shamar Springer,4.2,4.2,5,4,4,0,0,0,0,0,0,1,0,False,False,4.200
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Abhishek Sharma,Shamar Springer,4.3,4.2,5,1,0,1,1,0,0,0,0,0,0,False,False,4.300
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Abhishek Sharma,Shamar Springer,4.4,4.3,5,1,1,0,0,0,0,0,0,0,0,False,False,4.400
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Ishan Kishan,Shamar Springer,4.5,4.4,5,4,4,0,0,0,0,0,0,1,0,False,False,4.500
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Ishan Kishan,Shamar Springer,4.6,4.5,5,4,4,0,0,0,0,0,0,1,0,False,False,4.600
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Ishan Kishan,Shamar Springer,4.7,4.6,5,6,6,0,0,0,0,0,0,0,1,False,False,4.700
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Abhishek Sharma,Shamar Joseph,5.1,5.1,6,4,4,0,0,0,0,0,0,1,0,False,False,5.1
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Abhishek Sharma,Shamar Joseph,5.2,5.2,6,1,1,0,0,0,0,0,0,0,0,False,False,5.200
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Ishan Kishan,Shamar Joseph,5.3,5.3,6,6,6,0,0,0,0,0,0,0,1,False,False,5.300
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Ishan Kishan,Shamar Joseph,5.4,5.4,6,4,4,0,0,0,0,0,0,1,0,False,False,5.400
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Ishan Kishan,Shamar Joseph,5.5,5.5,6,2,2,0,0,0,0,0,0,0,0,False,False,5.500
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Ishan Kishan,Shamar Joseph,5.6,5.6,6,4,4,0,0,0,0,0,0,1,0,False,False,5.600
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Abhishek Sharma,Keemo Paul,6.1,6.1,7,0,0,0,0,0,0,0,0,0,0,False,False,6.1
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Abhishek Sharma,Keemo Paul,6.2,6.2,7,4,4,0,0,0,0,0,0,1,0,False,False,6.200
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Abhishek Sharma,Keemo Paul,6.3,6.3,7,1,1,0,0,0,0,0,0,0,0,False,False,6.300
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Ishan Kishan,Keemo Paul,6.4,6.4,7,4,4,0,0,0,0,0,0,1,0,False,False,6.400
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Ishan Kishan,Keemo Paul,6.5,6.5,7,0,0,0,0,0,0,0,0,0,0,False,False,6.500
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Ishan Kishan,Keemo Paul,6.6,6.5,7,1,0,1,1,0,0,0,0,0,0,False,False,6.600
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Ishan Kishan,Keemo Paul,6.7,6.6,7,1,1,0,0,0,0,0,0,0,0,False,False,6.700
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Ishan Kishan,Gudakesh Motie,7.1,7.1,8,1,1,0,0,0,0,0,0,0,0,False,False,7.1
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Abhishek Sharma,Gudakesh Motie,7.2,7.2,8,1,1,0,0,0,0,0,0,0,0,False,False,7.200
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Ishan Kishan,Gudakesh Motie,7.3,7.3,8,6,6,0,0,0,0,0,0,0,1,False,False,7.300
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Ishan Kishan,Gudakesh Motie,7.4,7.4,8,0,0,0,0,0,0,0,0,0,0,False,False,7.400
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Ishan Kishan,Gudakesh Motie,7.5,7.5,8,1,1,0,0,0,0,0,0,0,0,False,False,7.500
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Abhishek Sharma,Gudakesh Motie,7.6,7.5,8,1,0,1,1,0,0,0,0,0,0,False,False,7.600
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Abhishek Sharma,Gudakesh Motie,7.7,7.6,8,1,1,0,0,0,0,0,0,0,0,False,False,7.700
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Abhishek Sharma,Roston Chase,8.1,8.1,9,6,6,0,0,0,0,0,0,0,1,False,False,8.1
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Abhishek Sharma,Roston Chase,8.2,8.2,9,0,0,0,0,0,0,0,1,0,0,False,False,8.200
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Abhishek Sharma,Roston Chase,8.3,8.3,9,1,1,0,0,0,0,0,0,0,0,False,False,8.300
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Shreyas Iyer,Roston Chase,8.4,8.4,9,1,1,0,0,0,0,0,0,0,0,False,False,8.400
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Abhishek Sharma,Roston Chase,8.5,8.5,9,0,0,0,0,0,0,0,1,0,0,False,False,8.500
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Abhishek Sharma,Roston Chase,8.6,8.6,9,0,0,0,0,0,0,0,0,0,0,False,False,8.600
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Tilak Varma,Shamar Springer,9.1,9.1,10,1,1,0,0,0,0,0,0,0,0,False,False,9.1
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Abhishek Sharma,Shamar Springer,9.2,9.2,10,4,4,0,0,0,0,0,0,1,0,False,False,9.200
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Abhishek Sharma,Shamar Springer,9.3,9.3,10,1,1,0,0,0,0,0,0,0,0,False,False,9.300
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Tilak Varma,Shamar Springer,9.4,9.3,10,1,0,1,1,0,0,0,0,0,0,False,False,9.400
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Tilak Varma,Shamar Springer,9.5,9.4,10,0,0,0,0,0,0,0,0,0,0,False,False,9.500
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Tilak Varma,Shamar Springer,9.6,9.5,10,0,0,0,0,0,0,0,1,0,0,False,False,9.600
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Naman Dhir,Tilak Varma,Shamar Springer,9.7,9.6,10,1,1,0,0,0,0,0,0,0,0,False,False,9.700
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Naman Dhir,Tilak Varma,Gudakesh Motie,10.1,10.1,11,1,1,0,0,0,0,0,0,0,0,False,False,10.1
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Naman Dhir,Gudakesh Motie,10.2,10.2,11,1,1,0,0,0,0,0,0,0,0,False,False,10.200
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Naman Dhir,Tilak Varma,Gudakesh Motie,10.3,10.3,11,6,6,0,0,0,0,0,0,0,1,False,False,10.300
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Naman Dhir,Tilak Varma,Gudakesh Motie,10.4,10.4,11,2,2,0,0,0,0,0,0,0,0,False,False,10.400
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Naman Dhir,Tilak Varma,Gudakesh Motie,10.5,10.5,11,0,0,0,0,0,0,0,1,0,0,False,False,10.500
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Gudakesh Motie,10.6,10.6,11,1,1,0,0,0,0,0,0,0,0,False,False,10.600
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Roston Chase,11.1,11.1,12,1,1,0,0,0,0,0,0,0,0,False,False,11.1
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Nitish Reddy,Roston Chase,11.2,11.2,12,1,1,0,0,0,0,0,0,0,0,False,False,11.200
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Roston Chase,11.3,11.3,12,2,2,0,0,0,0,0,0,0,0,False,False,11.300
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Roston Chase,11.4,11.4,12,4,4,0,0,0,0,0,0,1,0,False,False,11.400
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Roston Chase,11.5,11.5,12,0,0,0,0,0,0,0,0,0,0,False,False,11.500
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Roston Chase,11.6,11.6,12,0,0,0,0,0,0,0,0,0,0,False,False,11.600
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Nitish Reddy,Shamar Joseph,12.1,12.1,13,4,4,0,0,0,0,0,0,1,0,False,False,12.1
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Nitish Reddy,Shamar Joseph,12.2,12.2,13,1,1,0,0,0,0,0,0,0,0,False,False,12.200
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Shamar Joseph,12.3,12.3,13,4,4,0,0,0,0,0,0,1,0,False,False,12.300
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Shamar Joseph,12.4,12.4,13,4,4,0,0,0,0,0,0,1,0,False,False,12.400
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Shamar Joseph,12.5,12.5,13,1,1,0,0,0,0,0,0,0,0,False,False,12.500
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Nitish Reddy,Shamar Joseph,12.6,12.6,13,4,4,0,0,0,0,0,0,1,0,False,False,12.600
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Gudakesh Motie,13.1,13.1,14,1,1,0,0,0,0,0,0,0,0,False,False,13.1
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Nitish Reddy,Gudakesh Motie,13.2,13.2,14,1,1,0,0,0,0,0,0,0,0,False,False,13.200
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Gudakesh Motie,13.3,13.3,14,2,2,0,0,0,0,0,0,0,0,False,False,13.300
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Gudakesh Motie,13.4,13.4,14,0,0,0,0,0,0,0,0,0,0,False,False,13.400
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Gudakesh Motie,13.5,13.5,14,1,1,0,0,0,0,0,0,0,0,False,False,13.500
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Nitish Reddy,Gudakesh Motie,13.6,13.6,14,1,1,0,0,0,0,0,0,0,0,False,False,13.600
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Nitish Reddy,Keemo Paul,14.1,14.1,15,1,1,0,0,0,0,0,0,0,0,False,False,14.1
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Keemo Paul,14.2,14.2,15,0,0,0,0,0,0,0,1,0,0,False,False,14.200
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Axar Patel,Tilak Varma,Keemo Paul,14.3,14.3,15,1,1,0,0,0,0,0,0,0,0,False,False,14.300
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Axar Patel,Keemo Paul,14.4,14.4,15,2,2,0,0,0,0,0,0,0,0,False,False,14.400
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Axar Patel,Keemo Paul,14.5,14.5,15,1,1,0,0,0,0,0,0,0,0,False,False,14.500
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Axar Patel,Tilak Varma,Keemo Paul,14.6,14.6,15,1,1,0,0,0,0,0,0,0,0,False,False,14.600
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Axar Patel,Tilak Varma,Shamar Springer,15.1,15.1,16,1,1,0,0,0,0,0,0,0,0,False,False,15.1
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Axar Patel,Shamar Springer,15.2,15.2,16,1,1,0,0,0,0,0,0,0,0,False,False,15.200
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Axar Patel,Tilak Varma,Shamar Springer,15.3,15.3,16,2,2,0,0,0,0,0,0,0,0,False,False,15.300
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Axar Patel,Tilak Varma,Shamar Springer,15.4,15.4,16,4,4,0,0,0,0,0,0,1,0,False,False,15.400
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Axar Patel,Tilak Varma,Shamar Springer,15.5,15.5,16,1,1,0,0,0,0,0,0,0,0,False,False,15.500
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Axar Patel,Shamar Springer,15.6,15.6,16,4,4,0,0,0,0,0,0,1,0,False,False,15.600
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Axar Patel,Tilak Varma,Gudakesh Motie,16.1,16.1,17,4,4,0,0,0,0,0,0,1,0,False,False,16.100
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Axar Patel,Tilak Varma,Gudakesh Motie,16.2,16.2,17,1,1,0,0,0,0,0,0,0,0,False,False,16.200
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Tilak Varma,Axar Patel,Gudakesh Motie,16.3,16.3,17,1,1,0,0,0,0,0,0,0,0,False,False,16.300
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Axar Patel,Tilak Varma,Gudakesh Motie,16.4,16.4,17,1,1,0,0,0,0,0,1,0,0,False,False,16.400
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Axar Patel,Arshdeep Singh,Gudakesh Motie,16.5,16.5,17,1,1,0,0,0,0,0,0,0,0,False,False,16.500
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Arshdeep Singh,Axar Patel,Gudakesh Motie,16.6,16.6,17,1,1,0,0,0,0,0,0,0,0,False,False,16.600
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Arshdeep Singh,Axar Patel,Keemo Paul,17.1,17.1,18,1,1,0,0,0,0,0,0,0,0,False,False,17.100
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Axar Patel,Arshdeep Singh,Keemo Paul,17.2,17.2,18,1,1,0,0,0,0,0,0,0,0,False,False,17.200
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Arshdeep Singh,Axar Patel,Keemo Paul,17.3,17.3,18,1,1,0,0,0,0,0,0,0,0,False,False,17.300
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Axar Patel,Arshdeep Singh,Keemo Paul,17.4,17.4,18,1,1,0,0,0,0,0,0,0,0,False,False,17.400
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Arshdeep Singh,Axar Patel,Keemo Paul,17.5,17.5,18,1,1,0,0,0,0,0,0,0,0,False,False,17.500
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Axar Patel,Arshdeep Singh,Keemo Paul,17.6,17.6,18,1,1,0,0,0,0,0,0,0,0,False,False,17.600
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Axar Patel,Arshdeep Singh,Shamar Springer,18.1,18.1,19,0,0,0,0,0,0,0,1,0,0,False,False,18.100
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Arshdeep Singh,Prince Yadav,Shamar Springer,18.2,18.2,19,1,1,0,0,0,0,0,0,0,0,False,False,18.200
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Prince Yadav,Arshdeep Singh,Shamar Springer,18.3,18.3,19,1,1,0,0,0,0,0,0,0,0,False,False,18.300
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Arshdeep Singh,Prince Yadav,Shamar Springer,18.4,18.4,19,0,0,0,0,0,0,0,0,0,0,False,False,18.400
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Arshdeep Singh,Prince Yadav,Shamar Springer,18.5,18.5,19,6,6,0,0,0,0,0,0,0,1,False,False,18.500
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Arshdeep Singh,Prince Yadav,Shamar Springer,18.6,18.6,19,0,0,0,0,0,0,0,1,0,0,False,False,18.600
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Prince Yadav,Mayank Yadav,Shamar Joseph,19.1,19.1,20,4,4,0,0,0,0,0,0,1,0,False,False,19.100
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Prince Yadav,Mayank Yadav,Shamar Joseph,19.2,19.2,20,0,0,0,0,0,0,0,0,0,0,False,False,19.200
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Prince Yadav,Mayank Yadav,Shamar Joseph,19.3,19.3,20,4,4,0,0,0,0,0,0,1,0,False,False,19.300
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Prince Yadav,Mayank Yadav,Shamar Joseph,19.4,19.4,20,4,4,0,0,0,0,0,0,1,0,False,False,19.400
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Prince Yadav,Mayank Yadav,Shamar Joseph,19.5,19.5,20,1,0,1,0,0,0,1,0,0,0,False,False,19.500
+Holkar Stadium,3,1,India National Cricket team,West Indies Cricket Team,Mayank Yadav,Prince Yadav,Shamar Joseph,19.6,19.6,20,0,0,0,0,0,0,0,1,0,0,False,False,19.600
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Kamil Pooran,Mayank Yadav,0.1,0.1,1,1,1,0,0,0,0,0,0,0,0,False,False,0.100
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Shai Hope,Mayank Yadav,0.2,0.2,1,0,0,0,0,0,0,0,0,0,0,False,False,0.200
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Shai Hope,Mayank Yadav,0.3,0.3,1,0,0,0,0,0,0,0,0,0,0,False,False,0.300
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Shai Hope,Mayank Yadav,0.4,0.4,1,0,0,0,0,0,0,0,0,0,0,False,False,0.400
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Shai Hope,Mayank Yadav,0.5,0.5,1,1,0,1,0,0,1,0,0,0,0,False,False,0.500
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Kamil Pooran,Mayank Yadav,0.6,0.6,1,0,0,0,0,0,0,0,0,0,0,False,False,0.600
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Shai Hope,Arshdeep Singh,1.1,1.1,2,0,0,0,0,0,0,0,0,0,0,False,False,1.100
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Shai Hope,Arshdeep Singh,1.2,1.2,2,1,1,0,0,0,0,0,0,0,0,False,False,1.200
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Kamil Pooran,Arshdeep Singh,1.3,1.3,2,0,0,0,0,0,0,0,0,0,0,False,False,1.300
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Kamil Pooran,Arshdeep Singh,1.4,1.4,2,4,4,0,0,0,0,0,0,1,0,False,False,1.400
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shai Hope,Kamil Pooran,Arshdeep Singh,1.5,1.5,2,0,0,0,0,0,0,0,1,0,0,False,False,1.500
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Kamil Pooran,Arshdeep Singh,1.6,1.6,2,1,1,0,0,0,0,0,0,0,0,False,False,1.600
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Kamil Pooran,Mayank Yadav,2.1,2.1,3,0,0,0,0,0,0,0,0,0,0,False,False,2.100
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Kamil Pooran,Mayank Yadav,2.2,2.2,3,0,0,0,0,0,0,0,0,0,0,False,False,2.200
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Kamil Pooran,Mayank Yadav,2.3,2.3,3,0,0,0,0,0,0,0,0,0,0,False,False,2.300
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Kamil Pooran,Mayank Yadav,2.4,2.4,3,4,4,0,0,0,0,0,0,1,0,False,False,2.400
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Kamil Pooran,Mayank Yadav,2.5,2.5,3,1,1,0,0,0,0,0,0,0,0,False,False,2.500
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Shimron Hetmyer,Mayank Yadav,2.6,2.5,3,2,1,1,1,0,0,0,0,0,0,False,False,2.600
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Kamil Pooran,Mayank Yadav,2.7,2.6,3,1,1,0,0,0,0,0,0,0,0,False,False,2.700
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Kamil Pooran,Arshdeep Singh,3.1,3.1,4,0,0,0,0,0,0,0,0,0,0,False,False,3.100
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Kamil Pooran,Arshdeep Singh,3.2,3.2,4,6,6,0,0,0,0,0,0,0,1,False,False,3.200
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Kamil Pooran,Arshdeep Singh,3.3,3.3,4,4,4,0,0,0,0,0,0,1,0,False,False,3.300
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Kamil Pooran,Arshdeep Singh,3.4,3.4,4,4,4,0,0,0,0,0,0,1,0,False,False,3.400
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Kamil Pooran,Arshdeep Singh,3.5,3.5,4,1,1,0,0,0,0,0,0,0,0,False,False,3.500
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Shimron Hetmyer,Arshdeep Singh,3.6,3.6,4,4,4,0,0,0,0,0,0,1,0,False,False,3.600
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Kamil Pooran,Prince Yadav,4.1,4.1,5,0,0,0,0,0,0,0,0,0,0,False,False,4.1
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Kamil Pooran,Prince Yadav,4.2,4.2,5,0,0,0,0,0,0,0,0,0,0,False,False,4.200
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Kamil Pooran,Prince Yadav,4.3,4.2,5,2,1,1,0,1,0,0,0,0,0,False,False,4.300
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Shimron Hetmyer,Prince Yadav,4.4,4.3,5,1,0,1,0,0,0,1,0,0,0,False,False,4.400
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Kamil Pooran,Prince Yadav,4.5,4.4,5,4,4,0,0,0,0,0,0,1,0,False,False,4.500
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Kamil Pooran,Prince Yadav,4.6,4.5,5,1,1,0,0,0,0,0,0,0,0,False,False,4.600
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Shimron Hetmyer,Prince Yadav,4.7,4.6,5,1,1,0,0,0,0,0,0,0,0,False,False,4.700
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Shimron Hetmyer,Mayank Yadav,5.1,5.1,6,4,4,0,0,0,0,0,0,1,0,False,False,5.1
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Shimron Hetmyer,Mayank Yadav,5.2,5.2,6,1,1,0,0,0,0,0,0,0,0,False,False,5.200
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Kamil Pooran,Mayank Yadav,5.3,5.3,6,0,0,0,0,0,0,0,0,0,0,False,False,5.300
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Kamil Pooran,Mayank Yadav,5.4,5.4,6,4,4,0,0,0,0,0,0,1,0,False,False,5.400
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Kamil Pooran,Mayank Yadav,5.5,5.5,6,0,0,0,0,0,0,0,0,0,0,False,False,5.500
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Kamil Pooran,Mayank Yadav,5.6,5.6,6,1,1,0,0,0,0,0,0,0,0,False,False,5.600
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Kamil Pooran,Naman Dhir,6.1,6.1,7,1,0,1,0,0,1,0,0,0,0,False,False,6.1
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Shimron Hetmyer,Naman Dhir,6.2,6.2,7,1,1,0,0,0,0,0,0,0,0,False,False,6.200
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Kamil Pooran,Naman Dhir,6.3,6.2,7,1,0,1,1,0,0,0,0,0,0,False,False,6.300
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Kamil Pooran,Naman Dhir,6.4,6.3,7,0,0,0,0,0,0,0,0,0,0,False,False,6.400
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Kamil Pooran,Naman Dhir,6.5,6.4,7,4,4,0,0,0,0,0,0,1,0,False,False,6.500
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Kamil Pooran,Naman Dhir,6.6,6.5,7,6,6,0,0,0,0,0,0,0,1,False,False,6.600
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Kamil Pooran,Naman Dhir,6.7,6.6,7,0,0,0,0,0,0,0,1,0,0,False,False,6.700
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Rovman Powell,Axar Patel,7.1,7.1,8,1,1,0,0,0,0,0,0,0,0,False,False,7.1
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Rovman Powell,Kamil Pooran,Axar Patel,7.2,7.2,8,1,1,0,0,0,0,0,0,0,0,False,False,7.200
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Rovman Powell,Axar Patel,7.3,7.3,8,4,4,0,0,0,0,0,0,1,0,False,False,7.300
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Rovman Powell,Axar Patel,7.4,7.4,8,0,0,0,0,0,0,0,0,0,0,False,False,7.400
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Rovman Powell,Axar Patel,7.5,7.5,8,0,0,0,0,0,0,0,0,0,0,False,False,7.500
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Rovman Powell,Axar Patel,7.6,7.6,8,1,1,0,0,0,0,0,0,0,0,False,False,7.600
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Rovman Powell,Naman Dhir,8.1,8.1,9,1,1,0,0,0,0,0,0,0,0,False,False,8.1
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Rovman Powell,Kamil Pooran,Naman Dhir,8.2,8.2,9,1,1,0,0,0,0,0,0,0,0,False,False,8.200
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Rovman Powell,Naman Dhir,8.3,8.3,9,1,1,0,0,0,0,0,0,0,0,False,False,8.300
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Rovman Powell,Kamil Pooran,Naman Dhir,8.4,8.4,9,1,1,0,0,0,0,0,0,0,0,False,False,8.400
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Rovman Powell,Naman Dhir,8.5,8.5,9,1,1,0,0,0,0,0,0,0,0,False,False,8.500
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Rovman Powell,Kamil Pooran,Naman Dhir,8.6,8.6,9,1,1,0,0,0,0,0,0,0,0,False,False,8.600
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Rovman Powell,Kamil Pooran,Axar Patel,9.1,9.1,10,0,0,0,0,0,0,0,0,0,0,False,False,9.1
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Rovman Powell,Kamil Pooran,Axar Patel,9.2,9.2,10,1,1,0,0,0,0,0,0,0,0,False,False,9.200
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Rovman Powell,Axar Patel,9.3,9.3,10,1,1,0,0,0,0,0,0,0,0,False,False,9.300
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Rovman Powell,Kamil Pooran,Axar Patel,9.4,9.4,10,0,0,0,0,0,0,0,1,0,0,False,False,9.400
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Kamil Pooran,Axar Patel,9.5,9.5,10,1,1,0,0,0,0,0,0,0,0,False,False,9.500
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Sherfane Rutherford,Axar Patel,9.6,9.6,10,1,1,0,0,0,0,0,0,0,0,False,False,9.600
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Sherfane Rutherford,Naman Dhir,10.1,10.1,11,6,6,0,0,0,0,0,0,0,1,False,False,10.1
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Sherfane Rutherford,Naman Dhir,10.2,10.1,11,1,0,1,1,0,0,0,0,0,0,False,False,10.200
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Sherfane Rutherford,Naman Dhir,10.3,10.2,11,6,6,0,0,0,0,0,0,0,1,False,False,10.300
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Sherfane Rutherford,Naman Dhir,10.4,10.3,11,1,1,0,0,0,0,0,0,0,0,False,False,10.400
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Kamil Pooran,Naman Dhir,10.5,10.4,11,1,1,0,0,0,0,0,0,0,0,False,False,10.500
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Sherfane Rutherford,Naman Dhir,10.6,10.5,11,6,6,0,0,0,0,0,0,0,1,False,False,10.600
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Kamil Pooran,Sherfane Rutherford,Naman Dhir,10.7,10.6,11,0,0,0,0,0,0,0,1,0,0,False,False,10.700
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Quentin Sampson,Prince Yadav,11.1,11.1,12,4,4,0,0,0,0,0,0,1,0,False,False,11.1
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Quentin Sampson,Prince Yadav,11.2,11.2,12,1,1,0,0,0,0,0,0,0,0,False,False,11.200
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Quentin Sampson,Sherfane Rutherford,Prince Yadav,11.3,11.3,12,0,0,0,0,0,0,0,0,0,0,False,False,11.300
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Quentin Sampson,Sherfane Rutherford,Prince Yadav,11.4,11.4,12,1,1,0,0,0,0,0,0,0,0,False,False,11.400
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Quentin Sampson,Prince Yadav,11.5,11.5,12,1,1,0,0,0,0,0,0,0,0,False,False,11.500
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Quentin Sampson,Sherfane Rutherford,Prince Yadav,11.6,11.5,12,1,0,1,1,0,0,0,0,0,0,False,False,11.600
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Quentin Sampson,Sherfane Rutherford,Prince Yadav,11.7,11.6,12,1,1,0,0,0,0,0,0,0,0,False,False,11.700
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Quentin Sampson,Sherfane Rutherford,Nitish Reddy,12.1,12.1,13,1,1,0,0,0,0,0,0,0,0,False,False,12.1
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Quentin Sampson,Nitish Reddy,12.2,12.2,13,1,1,0,0,0,0,0,0,0,0,False,False,12.200
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Quentin Sampson,Sherfane Rutherford,Nitish Reddy,12.3,12.3,13,1,1,0,0,0,0,0,0,0,0,False,False,12.300
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Quentin Sampson,Nitish Reddy,12.4,12.4,13,0,0,0,0,0,0,0,0,0,0,False,False,12.400
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Quentin Sampson,Nitish Reddy,12.5,12.5,13,0,0,0,0,0,0,0,0,0,0,False,False,12.500
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Quentin Sampson,Nitish Reddy,12.6,12.6,13,6,6,0,0,0,0,0,0,0,1,False,False,12.600
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Quentin Sampson,Sherfane Rutherford,Arshdeep Singh,13.1,13.1,14,4,4,0,0,0,0,0,0,1,0,False,False,13.1
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Quentin Sampson,Sherfane Rutherford,Arshdeep Singh,13.2,13.2,14,2,2,0,0,0,0,0,0,0,0,False,False,13.200
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Quentin Sampson,Sherfane Rutherford,Arshdeep Singh,13.3,13.2,14,1,0,1,1,0,0,0,0,0,0,False,False,13.300
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Quentin Sampson,Sherfane Rutherford,Arshdeep Singh,13.4,13.3,14,1,1,0,0,0,0,0,0,0,0,False,False,13.400
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Quentin Sampson,Arshdeep Singh,13.5,13.4,14,0,0,0,0,0,0,0,0,0,0,False,False,13.500
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Quentin Sampson,Arshdeep Singh,13.6,13.5,14,1,1,0,0,0,0,0,0,0,0,False,False,13.600
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Quentin Sampson,Sherfane Rutherford,Arshdeep Singh,13.7,13.5,14,1,0,1,1,0,0,0,0,0,0,False,False,13.700
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Quentin Sampson,Sherfane Rutherford,Arshdeep Singh,13.8,13.6,14,1,1,0,0,0,0,0,0,0,0,False,False,13.800
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Quentin Sampson,Sherfane Rutherford,Mayank Yadav,14.1,14.1,15,1,1,0,0,0,0,0,0,0,0,False,False,14.1
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Quentin Sampson,Mayank Yadav,14.2,14.2,15,6,6,0,0,0,0,0,0,0,1,False,False,14.200
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Quentin Sampson,Mayank Yadav,14.3,14.3,15,1,1,0,0,0,0,0,0,0,0,False,False,14.300
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Quentin Sampson,Sherfane Rutherford,Mayank Yadav,14.4,14.4,15,6,6,0,0,0,0,0,0,0,1,False,False,14.400
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Quentin Sampson,Sherfane Rutherford,Mayank Yadav,14.5,14.5,15,0,0,0,0,0,0,0,0,0,0,False,False,14.500
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Quentin Sampson,Sherfane Rutherford,Mayank Yadav,14.6,14.6,15,1,1,0,0,0,0,0,0,0,0,False,False,14.600
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Quentin Sampson,Sherfane Rutherford,Nitish Reddy,15.1,15.1,16,1,1,0,0,0,0,0,0,0,0,False,False,15.1
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Quentin Sampson,Nitish Reddy,15.2,15.2,16,1,1,0,0,0,0,0,0,0,0,False,False,15.200
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Quentin Sampson,Sherfane Rutherford,Nitish Reddy,15.3,15.3,16,0,0,0,0,0,0,0,1,0,0,False,False,15.300
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Keemo Paul,Sherfane Rutherford,Nitish Reddy,15.4,15.4,16,0,0,0,0,0,0,0,0,0,0,False,False,15.400
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Keemo Paul,Sherfane Rutherford,Nitish Reddy,15.5,15.5,16,6,6,0,0,0,0,0,0,0,1,False,False,15.500
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Keemo Paul,Sherfane Rutherford,Nitish Reddy,15.6,15.6,16,2,2,0,0,0,0,0,0,0,0,False,False,15.600
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Keemo Paul,Prince Yadav,16.1,16.1,17,1,1,0,0,0,0,0,0,0,0,False,False,16.100
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Keemo Paul,Sherfane Rutherford,Prince Yadav,16.2,16.2,17,1,1,0,0,0,0,0,0,0,0,False,False,16.200
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Keemo Paul,Prince Yadav,16.3,16.3,17,1,1,0,0,0,0,0,0,0,0,False,False,16.300
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Keemo Paul,Sherfane Rutherford,Prince Yadav,16.4,16.4,17,1,1,0,0,0,0,0,0,0,0,False,False,16.400
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Keemo Paul,Prince Yadav,16.5,16.5,17,4,4,0,0,0,0,0,0,1,0,False,False,16.500
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Keemo Paul,Prince Yadav,16.6,16.6,17,1,1,0,0,0,0,0,0,0,0,False,False,16.600
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Keemo Paul,Arshdeep Singh,17.1,17.1,18,1,1,0,0,0,0,0,0,0,0,False,False,17.100
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Keemo Paul,Sherfane Rutherford,Arshdeep Singh,17.2,17.2,18,0,0,0,0,0,0,0,1,0,0,False,False,17.200
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shamar Springer,Sherfane Rutherford,Arshdeep Singh,17.3,17.3,18,4,4,0,0,0,0,0,0,1,0,False,False,17.300
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shamar Springer,Sherfane Rutherford,Arshdeep Singh,17.4,17.4,18,1,1,0,0,0,0,0,0,0,0,False,False,17.400
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shamar Springer,Arshdeep Singh,17.5,17.5,18,0,0,0,0,0,0,0,1,0,0,False,False,17.500
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Roston Chase,Shamar Springer,Arshdeep Singh,17.6,17.6,18,2,2,0,0,0,0,0,0,0,0,False,False,17.600
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shamar Springer,Roston Chase,Prince Yadav,18.1,18.1,19,1,1,0,0,0,0,0,0,0,0,False,False,18.100
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Roston Chase,Shamar Springer,Prince Yadav,18.2,18.2,19,1,1,0,0,0,0,0,0,0,0,False,False,18.200
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shamar Springer,Roston Chase,Prince Yadav,18.3,18.3,19,6,6,0,0,0,0,0,0,0,1,False,False,18.300
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shamar Springer,Roston Chase,Prince Yadav,18.4,18.4,19,1,1,0,0,0,0,0,0,0,0,False,False,18.400
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Roston Chase,Shamar Springer,Prince Yadav,18.5,18.5,19,0,0,0,0,0,0,0,0,0,0,False,False,18.500
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Roston Chase,Shamar Springer,Prince Yadav,18.6,18.6,19,2,2,0,0,0,0,0,0,0,0,False,False,18.600
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shamar Springer,Roston Chase,Axar Patel,19.1,19.1,20,6,6,0,0,0,0,0,0,0,1,False,False,19.100
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shamar Springer,Roston Chase,Axar Patel,19.2,19.2,20,0,0,0,0,0,0,0,0,0,0,False,False,19.200
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shamar Springer,Roston Chase,Axar Patel,19.3,19.3,20,4,4,0,0,0,0,0,0,1,0,False,False,19.300
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shamar Springer,Roston Chase,Axar Patel,19.4,19.4,20,6,6,0,0,0,0,0,0,0,1,False,False,19.400
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shamar Springer,Roston Chase,Axar Patel,19.5,19.5,20,0,0,0,0,0,0,0,0,0,0,False,False,19.500
+Holkar Stadium,3,2,West Indies Cricket Team,India National Cricket team,Shamar Springer,Roston Chase,Axar Patel,19.6,19.6,20,6,6,0,0,0,0,0,0,0,1,False,False,19.600
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Jewel Andrew,Mayank Yadav,0.1,0.1,1,1,1,0,0,0,0,0,0,0,0,False,False,0.100
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Jewel Andrew,Shai Hope,Mayank Yadav,0.2,0.2,1,0,0,0,0,0,0,0,0,0,0,False,False,0.200
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Jewel Andrew,Shai Hope,Mayank Yadav,0.3,0.3,1,0,0,0,0,0,0,0,0,0,0,False,False,0.300
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Jewel Andrew,Shai Hope,Mayank Yadav,0.4,0.4,1,2,2,0,0,0,0,0,0,0,0,False,False,0.400
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Jewel Andrew,Shai Hope,Mayank Yadav,0.5,0.5,1,0,0,0,0,0,0,0,0,0,0,False,False,0.500
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Jewel Andrew,Shai Hope,Mayank Yadav,0.6,0.6,1,0,0,0,0,0,0,0,0,0,0,False,False,0.600
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Jewel Andrew,Arshdeep Singh,1.1,1.1,2,1,1,0,0,0,0,0,0,0,0,False,False,1.100
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Jewel Andrew,Shai Hope,Arshdeep Singh,1.2,1.2,2,6,6,0,0,0,0,0,0,0,1,False,False,1.200
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Jewel Andrew,Shai Hope,Arshdeep Singh,1.3,1.3,2,0,0,0,0,0,0,0,0,0,0,False,False,1.300
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Jewel Andrew,Shai Hope,Arshdeep Singh,1.4,1.4,2,4,4,0,0,0,0,0,0,1,0,False,False,1.400
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Jewel Andrew,Shai Hope,Arshdeep Singh,1.5,1.5,2,2,2,0,0,0,0,0,0,0,0,False,False,1.500
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Jewel Andrew,Shai Hope,Arshdeep Singh,1.6,1.6,2,4,4,0,0,0,0,0,0,1,0,False,False,1.600
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Jewel Andrew,Mayank Yadav,2.1,2.1,3,5,0,5,5,0,0,0,0,0,0,False,False,2.100
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Jewel Andrew,Mayank Yadav,2.2,2.1,3,1,0,1,0,1,0,0,0,0,0,False,False,2.200
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Jewel Andrew,Mayank Yadav,2.3,2.1,3,6,6,0,0,0,0,0,0,0,1,False,False,2.300
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Jewel Andrew,Mayank Yadav,2.4,2.2,3,4,0,4,0,0,4,0,0,0,0,False,False,2.400
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Jewel Andrew,Mayank Yadav,2.5,2.3,3,0,0,0,0,0,0,0,0,0,0,False,False,2.500
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Jewel Andrew,Mayank Yadav,2.6,2.4,3,1,1,0,0,0,0,0,0,0,0,False,False,2.600
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Jewel Andrew,Shai Hope,Mayank Yadav,2.7,2.5,3,2,2,0,0,0,0,0,0,0,0,False,False,2.700
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Jewel Andrew,Shai Hope,Mayank Yadav,2.8,2.5,3,1,0,1,1,0,0,0,0,0,0,False,False,2.800
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Jewel Andrew,Shai Hope,Mayank Yadav,2.9,2.6,3,0,0,0,0,0,0,0,0,0,0,False,False,2.900
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Jewel Andrew,Prince Yadav,3.1,3.1,4,0,0,0,0,0,0,0,0,0,0,False,False,3.100
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Jewel Andrew,Prince Yadav,3.2,3.2,4,6,6,0,0,0,0,0,0,0,1,False,False,3.200
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Jewel Andrew,Prince Yadav,3.3,3.3,4,4,4,0,0,0,0,0,0,1,0,False,False,3.300
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Jewel Andrew,Prince Yadav,3.4,3.4,4,1,1,0,0,0,0,0,0,0,0,False,False,3.400
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Jewel Andrew,Shai Hope,Prince Yadav,3.5,3.5,4,0,0,0,0,0,0,0,0,0,0,False,False,3.500
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Jewel Andrew,Shai Hope,Prince Yadav,3.6,3.6,4,1,1,0,0,0,0,0,0,0,0,False,False,3.600
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Jewel Andrew,Shai Hope,Axar Patel,4.1,4.1,5,0,0,0,0,0,0,0,0,0,0,False,False,4.1
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Jewel Andrew,Shai Hope,Axar Patel,4.2,4.2,5,0,0,0,0,0,0,0,1,0,0,False,False,4.200
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Shai Hope,Axar Patel,4.3,4.3,5,1,1,0,0,0,0,0,0,0,0,False,False,4.300
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Shimron Hetmyer,Axar Patel,4.4,4.4,5,0,0,0,0,0,0,0,0,0,0,False,False,4.400
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Shimron Hetmyer,Axar Patel,4.5,4.5,5,6,6,0,0,0,0,0,0,0,1,False,False,4.500
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Shimron Hetmyer,Axar Patel,4.6,4.6,5,1,1,0,0,0,0,0,0,0,0,False,False,4.600
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Shimron Hetmyer,Arshdeep Singh,5.1,5.1,6,1,0,1,1,0,0,0,0,0,0,False,False,5.1
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Shimron Hetmyer,Arshdeep Singh,5.2,5.1,6,0,0,0,0,0,0,0,0,0,0,False,False,5.200
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Shimron Hetmyer,Arshdeep Singh,5.3,5.2,6,1,1,0,0,0,0,0,0,0,0,False,False,5.300
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Shai Hope,Arshdeep Singh,5.4,5.3,6,4,4,0,0,0,0,0,0,1,0,False,False,5.400
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Shai Hope,Arshdeep Singh,5.5,5.4,6,2,2,0,0,0,0,0,0,0,0,False,False,5.500
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Shai Hope,Arshdeep Singh,5.6,5.4,6,1,0,1,1,0,0,0,0,0,0,False,False,5.600
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Shai Hope,Arshdeep Singh,5.7,5.5,6,4,4,0,0,0,0,0,0,1,0,False,False,5.700
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Shai Hope,Arshdeep Singh,5.8,5.6,6,6,6,0,0,0,0,0,0,0,1,False,False,5.800
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Shimron Hetmyer,Axar Patel,6.1,6.1,7,1,1,0,0,0,0,0,0,0,0,False,False,6.1
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Shai Hope,Axar Patel,6.2,6.2,7,1,1,0,0,0,0,0,0,0,0,False,False,6.200
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Shimron Hetmyer,Axar Patel,6.3,6.3,7,1,1,0,0,0,0,0,0,0,0,False,False,6.300
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Shai Hope,Axar Patel,6.4,6.4,7,4,4,0,0,0,0,0,0,1,0,False,False,6.400
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Shai Hope,Axar Patel,6.5,6.5,7,0,0,0,0,0,0,0,0,0,0,False,False,6.500
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Shai Hope,Axar Patel,6.6,6.6,7,4,4,0,0,0,0,0,0,1,0,False,False,6.600
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Shimron Hetmyer,Naman Dhir,7.1,7.1,8,6,6,0,0,0,0,0,0,0,1,False,False,7.1
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Shimron Hetmyer,Naman Dhir,7.2,7.2,8,1,1,0,0,0,0,0,0,0,0,False,False,7.200
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Shai Hope,Naman Dhir,7.3,7.3,8,1,1,0,0,0,0,0,0,0,0,False,False,7.300
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Shimron Hetmyer,Naman Dhir,7.4,7.4,8,4,4,0,0,0,0,0,0,1,0,False,False,7.400
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Shimron Hetmyer,Naman Dhir,7.5,7.5,8,1,1,0,0,0,0,0,0,0,0,False,False,7.500
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Shai Hope,Naman Dhir,7.6,7.6,8,6,6,0,0,0,0,0,0,0,1,False,False,7.600
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Shimron Hetmyer,Prince Yadav,8.1,8.1,9,1,1,0,0,0,0,0,0,0,0,False,False,8.1
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shimron Hetmyer,Shai Hope,Prince Yadav,8.2,8.2,9,0,0,0,0,0,0,0,1,0,0,False,False,8.200
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Prince Yadav,8.3,8.3,9,0,0,0,0,0,0,0,0,0,0,False,False,8.300
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Prince Yadav,8.4,8.4,9,1,1,0,0,0,0,0,0,0,0,False,False,8.400
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Rovman Powell,Prince Yadav,8.5,8.4,9,1,0,1,1,0,0,0,0,0,0,False,False,8.500
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Rovman Powell,Prince Yadav,8.6,8.5,9,1,1,0,0,0,0,0,0,0,0,False,False,8.600
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Prince Yadav,8.7,8.6,9,1,1,0,0,0,0,0,0,0,0,False,False,8.700
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Axar Patel,9.1,9.1,10,0,0,0,0,0,0,0,0,0,0,False,False,9.1
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Axar Patel,9.2,9.2,10,0,0,0,0,0,0,0,0,0,0,False,False,9.200
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Axar Patel,9.3,9.3,10,0,0,0,0,0,0,0,0,0,0,False,False,9.300
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Axar Patel,9.4,9.4,10,1,1,0,0,0,0,0,0,0,0,False,False,9.400
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Rovman Powell,Axar Patel,9.5,9.5,10,2,2,0,0,0,0,0,0,0,0,False,False,9.500
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Rovman Powell,Axar Patel,9.6,9.6,10,1,1,0,0,0,0,0,0,0,0,False,False,9.600
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Rovman Powell,Mayank Yadav,10.1,10.1,11,1,1,0,0,0,0,0,0,0,0,False,False,10.1
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Mayank Yadav,10.2,10.2,11,2,2,0,0,0,0,0,0,0,0,False,False,10.200
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Mayank Yadav,10.3,10.3,11,1,1,0,0,0,0,0,0,0,0,False,False,10.300
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Rovman Powell,Mayank Yadav,10.4,10.4,11,6,6,0,0,0,0,0,0,0,1,False,False,10.400
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Rovman Powell,Mayank Yadav,10.5,10.5,11,1,1,0,0,0,0,0,0,0,0,False,False,10.500
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Mayank Yadav,10.6,10.6,11,0,0,0,0,0,0,0,0,0,0,False,False,10.600
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Rovman Powell,Axar Patel,11.1,11.1,12,1,1,0,0,0,0,0,0,0,0,False,False,11.1
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Axar Patel,11.2,11.2,12,4,4,0,0,0,0,0,0,1,0,False,False,11.200
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Axar Patel,11.3,11.3,12,6,6,0,0,0,0,0,0,0,1,False,False,11.300
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Axar Patel,11.4,11.4,12,4,4,0,0,0,0,0,0,1,0,False,False,11.400
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Axar Patel,11.5,11.5,12,1,1,0,0,0,0,0,0,0,0,False,False,11.500
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Rovman Powell,Axar Patel,11.6,11.6,12,6,6,0,0,0,0,0,0,0,1,False,False,11.600
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Arshdeep Singh,12.1,12.1,13,1,1,0,0,0,0,0,0,0,0,False,False,12.1
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Rovman Powell,Arshdeep Singh,12.2,12.2,13,0,0,0,0,0,0,0,0,0,0,False,False,12.200
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Rovman Powell,Arshdeep Singh,12.3,12.3,13,1,1,0,0,0,0,0,0,0,0,False,False,12.300
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Arshdeep Singh,12.4,12.4,13,2,2,0,0,0,0,0,0,0,0,False,False,12.400
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Arshdeep Singh,12.5,12.4,13,1,0,1,1,0,0,0,0,0,0,False,False,12.500
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Rovman Powell,Shai Hope,Arshdeep Singh,12.6,12.5,13,0,0,0,0,0,0,0,1,0,0,False,False,12.600
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Arshdeep Singh,12.7,12.6,13,0,0,0,0,0,0,0,0,0,0,False,False,12.700
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Nitish Reddy,13.1,13.1,14,0,0,0,0,0,0,0,0,0,0,False,False,13.1
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Nitish Reddy,13.2,13.2,14,0,0,0,0,0,0,0,0,0,0,False,False,13.200
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Nitish Reddy,13.3,13.3,14,2,2,0,0,0,0,0,0,0,0,False,False,13.300
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Nitish Reddy,13.4,13.4,14,6,6,0,0,0,0,0,0,0,1,False,False,13.400
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Nitish Reddy,13.5,13.5,14,2,2,0,0,0,0,0,0,0,0,False,False,13.500
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Nitish Reddy,13.6,13.6,14,2,2,0,0,0,0,0,0,0,0,False,False,13.600
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Prince Yadav,14.1,14.1,15,2,2,0,0,0,0,0,0,0,0,False,False,14.1
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Prince Yadav,14.2,14.2,15,1,1,0,0,0,0,0,0,0,0,False,False,14.200
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Prince Yadav,14.3,14.3,15,1,1,0,0,0,0,0,0,0,0,False,False,14.300
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Prince Yadav,14.4,14.4,15,4,4,0,0,0,0,0,0,1,0,False,False,14.400
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Prince Yadav,14.5,14.5,15,0,0,0,0,0,0,0,0,0,0,False,False,14.500
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Prince Yadav,14.6,14.6,15,1,1,0,0,0,0,0,0,0,0,False,False,14.600
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Nitish Reddy,15.1,15.1,16,0,0,0,0,0,0,0,0,0,0,False,False,15.1
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Nitish Reddy,15.2,15.2,16,1,1,0,0,0,0,0,0,0,0,False,False,15.200
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Nitish Reddy,15.3,15.3,16,1,1,0,0,0,0,0,0,0,0,False,False,15.300
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Nitish Reddy,15.4,15.4,16,4,4,0,0,0,0,0,0,1,0,False,False,15.400
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Nitish Reddy,15.5,15.5,16,1,1,0,0,0,0,0,0,0,0,False,False,15.500
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Nitish Reddy,15.6,15.6,16,1,1,0,0,0,0,0,0,0,0,False,False,15.600
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Mayank Yadav,16.1,16.1,17,4,4,0,0,0,0,0,0,1,0,False,False,16.100
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Mayank Yadav,16.2,16.2,17,1,1,0,0,0,0,0,0,0,0,False,False,16.200
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Mayank Yadav,16.3,16.3,17,6,6,0,0,0,0,0,0,0,1,False,False,16.300
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Mayank Yadav,16.4,16.4,17,4,4,0,0,0,0,0,0,1,0,False,False,16.400
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Mayank Yadav,16.5,16.5,17,6,6,0,0,0,0,0,0,0,1,False,False,16.500
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Mayank Yadav,16.6,16.6,17,1,1,0,0,0,0,0,0,0,0,False,False,16.600
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Arshdeep Singh,17.1,17.1,18,0,0,0,0,0,0,0,0,0,0,False,False,17.100
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Arshdeep Singh,17.2,17.1,18,1,0,1,1,0,0,0,0,0,0,False,False,17.200
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Arshdeep Singh,17.3,17.2,18,0,0,0,0,0,0,0,0,0,0,False,False,17.300
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Arshdeep Singh,17.4,17.2,18,1,0,1,1,0,0,0,0,0,0,False,False,17.400
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Arshdeep Singh,17.5,17.3,18,6,6,0,0,0,0,0,0,0,1,False,False,17.500
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Arshdeep Singh,17.6,17.4,18,0,0,0,0,0,0,0,0,0,0,False,False,17.600
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Arshdeep Singh,17.7,17.4,18,1,0,1,1,0,0,0,0,0,0,False,False,17.700
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Arshdeep Singh,17.8,17.5,18,2,2,0,0,0,0,0,0,0,0,False,False,17.800
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Arshdeep Singh,17.9,17.6,18,0,0,0,0,0,0,0,0,0,0,False,False,17.900
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Prince Yadav,18.1,18.1,19,1,1,0,0,0,0,0,0,0,0,False,False,18.100
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Prince Yadav,18.2,18.2,19,1,1,0,0,0,0,0,0,0,0,False,False,18.200
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Prince Yadav,18.3,18.3,19,4,4,0,0,0,0,0,0,1,0,False,False,18.300
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Prince Yadav,18.4,18.4,19,1,1,0,0,0,0,0,0,0,0,False,False,18.400
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Prince Yadav,18.5,18.5,19,2,2,0,0,0,0,0,0,0,0,False,False,18.500
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Prince Yadav,18.6,18.6,19,1,1,0,0,0,0,0,0,0,0,False,False,18.600
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Nitish Reddy,19.1,19.1,20,4,4,0,0,0,0,0,0,1,0,False,False,19.100
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Nitish Reddy,19.2,19.2,20,1,1,0,0,0,0,0,0,0,0,False,False,19.200
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Nitish Reddy,19.3,19.3,20,1,1,0,0,0,0,0,0,0,0,False,False,19.300
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Sherfane Rutherford,Shai Hope,Nitish Reddy,19.4,19.4,20,1,1,0,0,0,0,0,0,0,0,False,False,19.400
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Nitish Reddy,19.5,19.5,20,6,6,0,0,0,0,0,0,0,1,False,False,19.500
+Rajiv Gandhi International Stadium,4,1,West Indies Cricket Team,India National Cricket team,Shai Hope,Sherfane Rutherford,Nitish Reddy,19.6,19.6,20,6,6,0,0,0,0,0,0,0,1,False,False,19.600
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Roston Chase,0.1,0.1,1,4,4,0,0,0,0,0,0,1,0,False,False,0.100
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Roston Chase,0.2,0.2,1,0,0,0,0,0,0,0,0,0,0,False,False,0.200
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Roston Chase,0.3,0.3,1,0,0,0,0,0,0,0,0,0,0,False,False,0.300
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Roston Chase,0.4,0.4,1,1,1,0,0,0,0,0,0,0,0,False,False,0.400
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Roston Chase,0.5,0.5,1,1,1,0,0,0,0,0,0,0,0,False,False,0.500
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Roston Chase,0.6,0.6,1,1,1,0,0,0,0,0,0,0,0,False,False,0.600
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Shamar Joseph,1.1,1.1,2,0,0,0,0,0,0,0,0,0,0,False,False,1.100
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Shamar Joseph,1.2,1.2,2,0,0,0,0,0,0,0,0,0,0,False,False,1.200
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Shamar Joseph,1.3,1.2,2,1,0,1,0,1,0,0,0,0,0,False,False,1.300
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Shamar Joseph,1.4,1.3,2,4,4,0,0,0,0,0,0,1,0,False,False,1.400
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Shamar Joseph,1.5,1.4,2,6,6,0,0,0,0,0,0,0,1,False,False,1.500
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Shamar Joseph,1.6,1.5,2,6,6,0,0,0,0,0,0,0,1,False,False,1.600
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Shamar Joseph,1.7,1.6,2,1,1,0,0,0,0,0,0,0,0,False,False,1.700
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Roston Chase,2.1,2.1,3,1,0,1,1,0,0,0,0,0,0,False,False,2.100
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Roston Chase,2.2,2.1,3,4,4,0,0,0,0,0,0,1,0,False,False,2.200
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Roston Chase,2.3,2.2,3,6,6,0,0,0,0,0,0,0,1,False,False,2.300
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Roston Chase,2.4,2.3,3,2,2,0,0,0,0,0,0,0,0,False,False,2.400
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Roston Chase,2.5,2.4,3,2,2,0,0,0,0,0,0,0,0,False,False,2.500
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Roston Chase,2.6,2.5,3,6,6,0,0,0,0,0,0,0,1,False,False,2.600
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Roston Chase,2.7,2.6,3,4,4,0,0,0,0,0,0,1,0,False,False,2.700
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Romario Shepherd,3.1,3.1,4,0,0,0,0,0,0,0,0,0,0,False,False,3.100
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Sanju Samson,Romario Shepherd,3.2,3.2,4,1,1,0,0,0,0,0,0,0,0,False,False,3.200
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Romario Shepherd,3.3,3.3,4,0,0,0,0,0,0,0,0,0,0,False,False,3.300
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Romario Shepherd,3.4,3.4,4,4,4,0,0,0,0,0,0,1,0,False,False,3.400
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Romario Shepherd,3.5,3.5,4,4,4,0,0,0,0,0,0,1,0,False,False,3.500
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Romario Shepherd,3.6,3.6,4,1,1,0,0,0,0,0,0,0,0,False,False,3.600
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Sanju Samson,Abhishek Sharma,Keemo Paul,4.1,4.1,5,0,0,0,0,0,0,0,1,0,0,False,False,4.1
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Abhishek Sharma,Keemo Paul,4.2,4.2,5,0,0,0,0,0,0,0,0,0,0,False,False,4.200
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Abhishek Sharma,Keemo Paul,4.3,4.2,5,1,0,1,1,0,0,0,0,0,0,False,False,4.300
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Abhishek Sharma,Keemo Paul,4.4,4.3,5,6,6,0,0,0,0,0,0,0,1,False,False,4.400
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Ishan Kishan,Abhishek Sharma,Keemo Paul,4.5,4.4,5,0,0,0,0,0,0,0,1,0,0,False,False,4.500
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Abhishek Sharma,Keemo Paul,4.6,4.5,5,1,1,0,0,0,0,0,0,0,0,False,False,4.600
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Shreyas Iyer,Keemo Paul,4.7,4.6,5,1,1,0,0,0,0,0,0,0,0,False,False,4.700
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Shreyas Iyer,Shamar Springer,5.1,5.1,6,1,1,0,0,0,0,0,0,0,0,False,False,5.1
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Abhishek Sharma,Shamar Springer,5.2,5.2,6,1,1,0,0,0,0,0,0,0,0,False,False,5.200
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Shreyas Iyer,Shamar Springer,5.3,5.3,6,0,0,0,0,0,0,0,0,0,0,False,False,5.300
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Shreyas Iyer,Shamar Springer,5.4,5.4,6,4,4,0,0,0,0,0,0,1,0,False,False,5.400
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Shreyas Iyer,Shamar Springer,5.5,5.5,6,1,0,1,0,0,1,0,0,0,0,False,False,5.500
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Abhishek Sharma,Shamar Springer,5.6,5.6,6,4,4,0,0,0,0,0,0,1,0,False,False,5.600
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Shreyas Iyer,Roston Chase,6.1,6.1,7,0,0,0,0,0,0,0,0,0,0,False,False,6.1
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Shreyas Iyer,Roston Chase,6.2,6.2,7,0,0,0,0,0,0,0,0,0,0,False,False,6.200
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Shreyas Iyer,Roston Chase,6.3,6.3,7,1,1,0,0,0,0,0,0,0,0,False,False,6.300
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Abhishek Sharma,Roston Chase,6.4,6.4,7,1,1,0,0,0,0,0,0,0,0,False,False,6.400
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Shreyas Iyer,Roston Chase,6.5,6.5,7,1,1,0,0,0,0,0,0,0,0,False,False,6.500
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Abhishek Sharma,Roston Chase,6.6,6.6,7,1,1,0,0,0,0,0,0,0,0,False,False,6.600
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Abhishek Sharma,Keemo Paul,7.1,7.1,8,0,0,0,0,0,0,0,0,0,0,False,False,7.1
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Abhishek Sharma,Keemo Paul,7.2,7.2,8,1,1,0,0,0,0,0,0,0,0,False,False,7.200
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Shreyas Iyer,Keemo Paul,7.3,7.3,8,4,4,0,0,0,0,0,0,1,0,False,False,7.300
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Shreyas Iyer,Keemo Paul,7.4,7.4,8,1,1,0,0,0,0,0,0,0,0,False,False,7.400
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Abhishek Sharma,Keemo Paul,7.5,7.5,8,4,4,0,0,0,0,0,0,1,0,False,False,7.500
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Abhishek Sharma,Keemo Paul,7.6,7.6,8,1,1,0,0,0,0,0,0,0,0,False,False,7.600
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Abhishek Sharma,Shamar Springer,8.1,8.1,9,2,2,0,0,0,0,0,0,0,0,False,False,8.1
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Shreyas Iyer,Abhishek Sharma,Shamar Springer,8.2,8.2,9,0,0,0,0,0,0,0,1,0,0,False,False,8.200
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Abhishek Sharma,Shamar Springer,8.3,8.3,9,2,2,0,0,0,0,0,0,0,0,False,False,8.300
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Abhishek Sharma,Shamar Springer,8.4,8.4,9,1,1,0,0,0,0,0,0,0,0,False,False,8.400
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Tilak Varma,Shamar Springer,8.5,8.4,9,1,0,1,1,0,0,0,0,0,0,False,False,8.500
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Tilak Varma,Shamar Springer,8.6,8.5,9,6,6,0,0,0,0,0,0,0,1,False,False,8.600
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Tilak Varma,Shamar Springer,8.7,8.6,9,1,1,0,0,0,0,0,0,0,0,False,False,8.700
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Tilak Varma,Roston Chase,9.1,9.1,10,0,0,0,0,0,0,0,0,0,0,False,False,9.1
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Tilak Varma,Roston Chase,9.2,9.2,10,1,1,0,0,0,0,0,0,0,0,False,False,9.200
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Abhishek Sharma,Roston Chase,9.3,9.3,10,4,4,0,0,0,0,0,0,1,0,False,False,9.300
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Abhishek Sharma,Roston Chase,9.4,9.4,10,0,0,0,0,0,0,0,0,0,0,False,False,9.400
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Abhishek Sharma,Roston Chase,9.5,9.5,10,1,1,0,0,0,0,0,0,0,0,False,False,9.500
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Tilak Varma,Roston Chase,9.6,9.6,10,1,1,0,0,0,0,0,0,0,0,False,False,9.600
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Tilak Varma,Romario Shepherd,10.1,10.1,11,0,0,0,0,0,0,0,0,0,0,False,False,10.1
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Tilak Varma,Romario Shepherd,10.2,10.2,11,1,1,0,0,0,0,0,0,0,0,False,False,10.200
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Abhishek Sharma,Romario Shepherd,10.3,10.3,11,0,0,0,0,0,0,0,0,0,0,False,False,10.300
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Abhishek Sharma,Romario Shepherd,10.4,10.4,11,0,0,0,0,0,0,0,0,0,0,False,False,10.400
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Abhishek Sharma,Romario Shepherd,10.5,10.5,11,4,4,0,0,0,0,0,0,1,0,False,False,10.500
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Abhishek Sharma,Romario Shepherd,10.6,10.6,11,6,6,0,0,0,0,0,0,0,1,False,False,10.600
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Tilak Varma,Gudakesh Motie,11.1,11.1,12,4,4,0,0,0,0,0,0,1,0,False,False,11.1
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Tilak Varma,Gudakesh Motie,11.2,11.2,12,0,0,0,0,0,0,0,0,0,0,False,False,11.200
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Abhishek Sharma,Tilak Varma,Gudakesh Motie,11.3,11.3,12,0,0,0,0,0,0,0,1,0,0,False,False,11.300
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Naman Dhir,Tilak Varma,Gudakesh Motie,11.4,11.4,12,0,0,0,0,0,0,0,1,0,0,False,False,11.400
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Gudakesh Motie,11.5,11.5,12,1,1,0,0,0,0,0,0,0,0,False,False,11.500
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Nitish Reddy,Gudakesh Motie,11.6,11.6,12,1,1,0,0,0,0,0,0,0,0,False,False,11.600
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Nitish Reddy,Keemo Paul,12.1,12.1,13,1,0,1,1,0,0,0,0,0,0,False,False,12.1
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Nitish Reddy,Keemo Paul,12.2,12.1,13,6,6,0,0,0,0,0,0,0,1,False,False,12.200
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Nitish Reddy,Keemo Paul,12.3,12.1,13,1,0,1,1,0,0,0,0,0,0,False,False,12.300
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Nitish Reddy,Keemo Paul,12.4,12.2,13,1,1,0,0,0,0,0,0,0,0,False,False,12.400
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Keemo Paul,12.5,12.3,13,1,1,0,0,0,0,0,0,0,0,False,False,12.500
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Nitish Reddy,Keemo Paul,12.6,12.4,13,1,1,0,0,0,0,0,0,0,0,False,False,12.600
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Keemo Paul,12.7,12.5,13,1,1,0,0,0,0,0,0,0,0,False,False,12.700
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Nitish Reddy,Keemo Paul,12.8,12.5,13,1,0,1,1,0,0,0,0,0,0,False,False,12.800
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Nitish Reddy,Keemo Paul,12.9,12.6,13,0,0,0,0,0,0,0,0,0,0,False,False,12.900
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Gudakesh Motie,13.1,13.1,14,1,1,0,0,0,0,0,0,0,0,False,False,13.1
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Nitish Reddy,Gudakesh Motie,13.2,13.2,14,4,0,4,0,0,0,4,0,0,0,False,False,13.200
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Nitish Reddy,Gudakesh Motie,13.3,13.3,14,2,2,0,0,0,0,0,0,0,0,False,False,13.300
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Nitish Reddy,Gudakesh Motie,13.4,13.4,14,2,2,0,0,0,0,0,0,0,0,False,False,13.400
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Nitish Reddy,Gudakesh Motie,13.5,13.5,14,1,1,0,0,0,0,0,0,0,0,False,False,13.500
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Gudakesh Motie,13.6,13.6,14,1,1,0,0,0,0,0,0,0,0,False,False,13.600
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Shamar Springer,14.1,14.1,15,1,1,0,0,0,0,0,0,0,0,False,False,14.1
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Nitish Reddy,Shamar Springer,14.2,14.2,15,1,1,0,0,0,0,0,0,0,0,False,False,14.200
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Shamar Springer,14.3,14.3,15,1,1,0,0,0,0,0,0,0,0,False,False,14.300
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Nitish Reddy,Shamar Springer,14.4,14.3,15,1,0,1,1,0,0,0,0,0,0,False,False,14.400
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Nitish Reddy,Shamar Springer,14.5,14.4,15,1,1,0,0,0,0,0,0,0,0,False,False,14.500
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Shamar Springer,14.6,14.5,15,6,6,0,0,0,0,0,0,0,1,False,False,14.600
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Shamar Springer,14.7,14.6,15,1,1,0,0,0,0,0,0,0,0,False,False,14.700
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Shamar Joseph,15.1,15.1,16,0,0,0,0,0,0,0,0,0,0,False,False,15.1
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Shamar Joseph,15.2,15.2,16,4,4,0,0,0,0,0,0,1,0,False,False,15.200
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Shamar Joseph,15.3,15.3,16,2,2,0,0,0,0,0,0,0,0,False,False,15.300
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Shamar Joseph,15.4,15.3,16,1,0,1,1,0,0,0,0,0,0,False,False,15.400
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Shamar Joseph,15.5,15.4,16,2,0,2,0,0,2,0,0,0,0,False,False,15.500
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Shamar Joseph,15.6,15.5,16,6,6,0,0,0,0,0,0,0,1,False,False,15.600
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Shamar Joseph,15.7,15.6,16,6,6,0,0,0,0,0,0,0,1,False,False,15.700
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Nitish Reddy,Romario Shepherd,16.1,16.1,17,6,6,0,0,0,0,0,0,0,1,False,False,16.100
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Nitish Reddy,Romario Shepherd,16.2,16.2,17,0,0,0,0,0,0,0,0,0,0,False,False,16.200
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Nitish Reddy,Romario Shepherd,16.3,16.3,17,1,1,0,0,0,0,0,0,0,0,False,False,16.300
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Romario Shepherd,16.4,16.3,17,1,0,1,1,0,0,0,0,0,0,False,False,16.400
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Tilak Varma,Romario Shepherd,16.5,16.4,17,1,1,0,0,0,0,0,0,0,0,False,False,16.500
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Nitish Reddy,Romario Shepherd,16.6,16.5,17,2,2,0,0,0,0,0,0,0,0,False,False,16.600
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Tilak Varma,Nitish Reddy,Romario Shepherd,16.7,16.6,17,0,0,0,0,0,0,0,1,0,0,False,False,16.700
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Axar Patel,Shamar Springer,17.1,17.1,18,1,1,0,0,0,0,0,0,0,0,False,False,17.100
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Axar Patel,Nitish Reddy,Shamar Springer,17.2,17.2,18,0,0,0,0,0,0,0,0,0,0,False,False,17.200
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Axar Patel,Nitish Reddy,Shamar Springer,17.3,17.3,18,0,0,0,0,0,0,0,0,0,0,False,False,17.300
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Axar Patel,Nitish Reddy,Shamar Springer,17.4,17.4,18,2,2,0,0,0,0,0,0,0,0,False,False,17.400
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Axar Patel,Nitish Reddy,Shamar Springer,17.5,17.5,18,1,1,0,0,0,0,0,0,0,0,False,False,17.500
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Axar Patel,Shamar Springer,17.6,17.6,18,1,1,0,0,0,0,0,0,0,0,False,False,17.600
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Axar Patel,Keemo Paul,18.1,18.1,19,1,0,1,1,0,0,0,0,0,0,False,False,18.100
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Axar Patel,Keemo Paul,18.2,18.1,19,6,6,0,0,0,0,0,0,0,1,False,False,18.200
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Nitish Reddy,Axar Patel,Keemo Paul,18.3,18.2,19,0,0,0,0,0,0,0,1,0,0,False,False,18.300
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Prince Yadav,Axar Patel,Keemo Paul,18.4,18.3,19,0,0,0,0,0,0,0,1,0,0,False,False,18.400
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Arshdeep Singh,Axar Patel,Keemo Paul,18.5,18.4,19,1,1,0,0,0,0,0,0,0,0,False,False,18.500
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Axar Patel,Arshdeep Singh,Keemo Paul,18.6,18.5,19,0,0,0,0,0,0,0,1,0,0,False,False,18.600
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Mayank Yadav,Arshdeep Singh,Keemo Paul,18.7,18.6,19,0,0,0,0,0,0,0,0,0,0,False,False,18.700
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Arshdeep Singh,Mayank Yadav,Shamar Joseph,19.1,19.1,20,4,4,0,0,0,0,0,0,1,0,False,False,19.100
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Arshdeep Singh,Mayank Yadav,Shamar Joseph,19.2,19.1,20,1,0,1,1,0,0,0,0,0,0,False,False,19.200
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Arshdeep Singh,Mayank Yadav,Shamar Joseph,19.3,19.2,20,0,0,0,0,0,0,0,0,0,0,False,False,19.300
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Arshdeep Singh,Mayank Yadav,Shamar Joseph,19.4,19.3,20,0,0,0,0,0,0,0,0,0,0,False,False,19.400
+Rajiv Gandhi International Stadium,4,2,India National Cricket team,West Indies Cricket Team,Arshdeep Singh,Mayank Yadav,Shamar Joseph,19.5,19.3,20,5,0,5,5,0,0,0,0,0,0,False,False,19.500
