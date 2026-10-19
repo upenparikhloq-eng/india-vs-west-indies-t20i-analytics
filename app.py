@@ -20,10 +20,15 @@ st.set_page_config(
 # 2. PROJECT PATHS
 # ============================================================
 
-PROJECT_DIR = Path(r"C:\India_Vs_West_Indies_T20i_Challenge")
-CLEAN_DIR = PROJECT_DIR / "Data" / "Clean"
-PROCESSED_DIR = PROJECT_DIR / "Data" / "Processed"
+# Project paths — works locally and on Streamlit Cloud
+PROJECT_DIR = Path(__file__).resolve().parent
+DATA_DIR = PROJECT_DIR / "Data"
+
+CLEAN_DIR = DATA_DIR / "Clean"
+PROCESSED_DIR = DATA_DIR / "Processed"
+
 CLEAN_FILE = CLEAN_DIR / "t20i_ball_by_ball_clean.csv"
+
 
 # ============================================================
 # 3. COLOUR PALETTE
